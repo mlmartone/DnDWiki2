@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/places/grey-hawk/"}
 ---
 
-Grey Hawk is a small town that sprang up around a bridge crossing the [[Places/Dessarin River\|Dessarin River]] just above the falls. The bridge is along [[Places/The Wanderer's Path\|The Wanderer's Path]], a quiet route that branches off of the Long Road (a major trading route of the sword coast), and passes between [[Places/The High Forest\|The High Forest]] and the Evermoors. The population (approx. 100) is mostly human, with a decent portion of half-elves descended from the high elves of the forest, but the town is no stranger to other races passing though. Everyone knows everyone else in the town, and the peace is rarely disturbed...
+Grey Hawk is a small town in northwestern [[Places/Faerun\|Faerun]] that sprang up around a bridge crossing the [[Places/Dessarin River\|Dessarin River]] just above the falls. The bridge is along [[Places/The Wanderer's Path\|The Wanderer's Path]], a quiet route that branches off of the Long Road (a major trading route of the sword coast), and passes between [[Places/The High Forest\|The High Forest]] and the Evermoors. The population (approx. 100) is mostly human, with a decent portion of half-elves descended from the high elves of the forest, but the town is no stranger to other races passing though. Everyone knows everyone else in the town, and the peace is rarely disturbed.
 
 ![Pasted image 20240208004209.png](/img/user/Z_Attachments/Pasted%20image%2020240208004209.png)
 ### Demographics
@@ -39,6 +39,10 @@ The Greyhawk Bridge lies along [[Places/The Wanderer's Path\|The Wanderer's Path
 [[People/Grey Hawk Citizens/Yarr Xibloes\|Yarr Xibloes]]
 [[People/Grey Hawk Citizens/Goop\|Goop]]
 ### Notable Events
-Tavern Robbery - Some thugs from 'The Juice Crew' held up the Bursting Barrel for pocket cash and were beaten back by a fledgling adventuring party.  
+| Event | Date | Notes |
+| ---- | ---- | ---- |
+| Tavern Robbery | Seedtime 1 | Some thugs from 'The Juice Crew' held up [[Places/The Bursting Barrel\|The Bursting Barrel]] for pocket cash and were beaten back by a fledgling adventuring party.   |
+| Arrival of Orbital Strike | Seedtime 1 | A group of high-level adventurers that call themselves [[Orbital Strike\|Orbital Strike]] has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them.   |
+ - Some thugs from 'The Juice Crew' held up the Bursting Barrel for pocket cash and were beaten back by a fledgling adventuring party.  
 Arrival of Alduin's Party - A group of high-level adventurers has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them.  
 Murder of Reka Rearguard - Reka was found dead outside of Simon and Iwana's house.  

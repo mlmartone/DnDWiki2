@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/people/grey-hawk-citizens/shrimp/"}
 ---
 
-Honey O'Dell's performing chipmunk, known for dancing and enjoying cashews.  
+[[People/Grey Hawk Citizens/Honey O'Dell\|Honey O'Dell]]'s performing chipmunk, known for dancing and enjoying cashews.  

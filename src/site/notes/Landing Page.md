@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"]}
 ---
 
-# Thursday Night D&D Wiki
 I'm trying this out, hopefully you can navigate through my world notes.  
 
 Here's some helpful pages to get started:

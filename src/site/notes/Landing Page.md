@@ -2,13 +2,15 @@
 {"dg-publish":true,"permalink":"/landing-page/","tags":["gardenEntry"]}
 ---
 
-I'm trying this out, hopefully you can navigate through my world notes.  
+Welcome to the Wiki for Thursday Night D&D!  Navigate with links in the pages or the sidebar.  I'll do my best to keep this up to date as you meet new characters and progress in your adventure.  Also you need to figure out a team name at some point.  
 
-Here's some helpful pages to get started:
-[[Places/Faerun\|Faerun]]
+**Here are some helpful pages to get started:**
+Session Notes and info on Player Characters: [[The Adventures of ______\|The Adventures of ______]]
 
-[[Places/Grey Hawk\|Grey Hawk]]
+General World Info: [[Places/Faerun\|Faerun]]
 
-[[Quests/Quest List\|Quest List]]
+Starting Village Background: [[Places/Grey Hawk\|Grey Hawk]]
 
-[[Orbital Strike\|Orbital Strike]]
+Current Objectives: [[Quests/Quest List\|Quest List]]
+
+Other Characters: [[People/Other Adventurers/Orbital Strike\|Orbital Strike]]

@@ -5,7 +5,7 @@
 ### Personal Quests
 [[Quests/Pi'za Party\|Pi'za Party]]
 [[Quests/To The Moon\|To The Moon]]
-### Side Quests
+### Side Quests/Leads
 [[Quests/Investigate the Poisoned Well\|Investigate the Poisoned Well]]
 [[Quests/Clarence's Midnight Trot\|Clarence's Midnight Trot]]
 [[Quests/Graverobbing Herself\|Graverobbing Herself]] (No Longer Available)
@@ -14,3 +14,4 @@
 [[Quests/Track Down the Astral Orb\|Track Down the Astral Orb]]
 ### Ongoing Quests
 [[Quests/Help Greasy Greg Get More Fluids\|Help Greasy Greg Get More Fluids]]
+[[Goop's Treasures\|Goop's Treasures]]

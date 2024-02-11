@@ -14,4 +14,4 @@
 [[Quests/Track Down the Astral Orb\|Track Down the Astral Orb]]
 ### Ongoing Quests
 [[Quests/Help Greasy Greg Get More Fluids\|Help Greasy Greg Get More Fluids]]
-[[Goop's Treasures\|Goop's Treasures]]
+[[Quests/Goop's Treasures\|Goop's Treasures]]

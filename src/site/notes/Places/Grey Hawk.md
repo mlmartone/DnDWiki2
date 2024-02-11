@@ -10,7 +10,7 @@ Mostly human, significant portion of half-elves, a handful of other races such a
 ### Government
 The Reeve is a hereditary title associated with collecting tolls and upkeeping the bridge, but has grown into something akin to a mayor. A handful of officials such as a guard captain, a magistrate, and a few clerks help to keep the town running but don't get too involved in the inhabitants' business.
 ### Infrastructure
-The Greyhawk Bridge lies along [[Places/The Wanderer's Path\|The Wanderer's Path]] and crosses the [[Places/Dessarin River\|Dessarin River]]. [[Places/The Wanderer's Path\|The Wanderer's Path]] is a lightly trafficked road often travelled by adventurers, merchants, and various caravans moving from inland Faerun to the Sword Coast.
+The Grey Hawk Bridge lies along [[Places/The Wanderer's Path\|The Wanderer's Path]] and crosses the [[Places/Dessarin River\|Dessarin River]]. [[Places/The Wanderer's Path\|The Wanderer's Path]] is a lightly trafficked road often travelled by adventurers, merchants, and various caravans moving from inland Faerun to the Sword Coast.
 ### Points of Interest
 [[Places/Grey Hawk Falls\|Grey Hawk Falls]]
 [[Places/Crescent's Rest\|Crescent's Rest]]
@@ -37,12 +37,14 @@ The Greyhawk Bridge lies along [[Places/The Wanderer's Path\|The Wanderer's Path
 [[People/Grey Hawk Citizens/Simon Sais\|Simon Sais]]
 [[People/Grey Hawk Citizens/Iwana Sais\|Iwana Sais]]
 [[People/Grey Hawk Citizens/Yarr Xibloes\|Yarr Xibloes]]
+[[People/Grey Hawk Citizens/Brother Collamir\|Brother Collamir]]
+[[People/Grey Hawk Citizens/Sister Tasarda\|Sister Tasarda]]
+[[People/Grey Hawk Citizens/Dug Diggums\|Dug Diggums]]
+[[People/Grey Hawk Citizens/Saoirse\|Saoirse]]
 [[People/Grey Hawk Citizens/Goop\|Goop]]
 ### Notable Events
 | Event | Date | Notes |
 | ---- | ---- | ---- |
-| Tavern Robbery | Seedtime 1 | Some thugs from 'The Juice Crew' held up [[Places/The Bursting Barrel\|The Bursting Barrel]] for pocket cash and were beaten back by a fledgling adventuring party.   |
-| Arrival of Orbital Strike | Seedtime 1 | A group of high-level adventurers that call themselves [[Orbital Strike\|Orbital Strike]] has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them.   |
- - Some thugs from 'The Juice Crew' held up the Bursting Barrel for pocket cash and were beaten back by a fledgling adventuring party.  
-Arrival of Alduin's Party - A group of high-level adventurers has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them.  
-Murder of Reka Rearguard - Reka was found dead outside of Simon and Iwana's house.  
+| Tavern Robbery | Greenwake 40 | Some thugs from 'The Juice Crew' held up [[Places/The Bursting Barrel\|The Bursting Barrel]] for pocket cash and were beaten back by a fledgling adventuring party. |
+| Arrival of Orbital Strike | Greenwake 40 | A group of high-level adventurers that call themselves [[People/Other Adventurers/Orbital Strike\|Orbital Strike]] has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them. |
+| Murder of Reka Rearguard | Greenwake 42 | Reka was found dead outside of Simon and Iwana's house.   |

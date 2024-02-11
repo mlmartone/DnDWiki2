@@ -3,5 +3,5 @@
 ---
 
 [[People/Grey Hawk Citizens/Nora Gremble\|Nora Gremble]]'s horse.  He goes where he wants and is majestic as fuck about it.  
-
+![Pasted image 20240211015722.png](/img/user/Z_Attachments/Pasted%20image%2020240211015722.png)
 ![Grey Hawk Blank (10).jpg](/img/user/Z_Attachments/Grey%20Hawk%20Blank%20(10).jpg)

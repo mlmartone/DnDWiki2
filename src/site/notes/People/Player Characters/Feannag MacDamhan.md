@@ -3,8 +3,8 @@
 ---
 
 Played by: Eric
-Race: Human
-Class and Level: Rogue 1
+Race: [Human](http://dnd5e.wikidot.com/human)
+Class and Level: [Rogue](http://dnd5e.wikidot.com/rogue) 1
 Subclass: None
 Age: 20
 Alignment: Chaotic Good

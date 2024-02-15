@@ -3,8 +3,8 @@
 ---
 
 Played by: Zac
-Race: Wood Elf
-Class and Level: Monk 1
+Race: [Wood Elf](http://dnd5e.wikidot.com/lineage:elf)
+Class and Level: [Monk](http://dnd5e.wikidot.com/monk) 1
 Subclass: None
 Age: Uncertain, around 170?
 Alignment: Chaotic Good

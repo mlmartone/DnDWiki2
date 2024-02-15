@@ -3,9 +3,9 @@
 ---
 
 Played by: Dani
-Race: Forest Gnome
-Class and Level: Cleric 1
-Subclass: Forge
+Race: [Forest Gnome](http://dnd5e.wikidot.com/lineage:gnome)
+Class and Level: [Cleric](http://dnd5e.wikidot.com/cleric) 1
+Subclass: [Forge](http://dnd5e.wikidot.com/cleric:forge)
 Age: ??
 Alignment: Neutral Good
 

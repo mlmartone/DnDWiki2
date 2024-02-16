@@ -4,7 +4,7 @@
 
 Played by: Alexa
 Race: [Kenku](http://dnd5e.wikidot.com/lineage:kenku)
-Class and Level: [Wizard](http://dnd5e.wikidot.com/wizard) 1
+Class and Level: [Wizard](http://dnd5e.wikidot.com/wizard) 2
 Subclass: None
 Age: 20
 Alignment: True Neutral

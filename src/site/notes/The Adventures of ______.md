@@ -13,6 +13,23 @@
 ---
 ## Session Notes
 [[Quests/Quest List\|Quest List]]
+### Session 5
+*Greenwake 42*
+- After discussing how to set a trap to catch whatever was banging on Simon and Iwana's door, the party followed [[People/Grey Hawk Citizens/Clarence\|Clarence]] on his midnight trot into the woods
+- Though he spotted them and ran away, they were able to track him to a clearing with a huge ancient oak tree
+- The group was spotted by a group of territorial [boars](https://www.dndbeyond.com/monsters/16812-boar), which attacked, dropping Rip to 0HP, but they were easily dispatched by the group.  Aired opted to knock them unconscious rather than kill the beasts.  Rip started a small forest fire
+- Feannag noticed Clarence run behind the oak with a green flash, and after chasing him he saw the tree closing up some sort of magical doorway.  Upon further inspection Aired noticed some druidic runes carved into the roots
+- After managing to put out the forest fire, the party returned to camp following Nira's skein of yarn she'd laid down on the way out
+- Short rest in Rip's nest
+- Feannag set up a stakeout across from [[People/Grey Hawk Citizens/Simon Sais\|Simon Sais]] and [[People/Grey Hawk Citizens/Iwana Sais\|Iwana Sais]]'s house, saw a figure approach and bang on the door in the dark.  The rest of the party arrived and Wrenn recognized the zombie as Cima Fanteaser, Iwana's mother
+- After banging on the door unsuccessfully for a few minutes the zombie shambled off down the road to the graveyard followed by the party
+- Nira, Rip, and Cock kept it distracted with mage hands while Feannag and Aired ran to the Crescent's Rest to get help from Alduin
+- Alduin quickly dispatched the [zombie](https://www.dndbeyond.com/monsters/17077-zombie), and a [specter](https://www.dndbeyond.com/monsters/17017-specter) rose out of the body, which the party and Void quickly subdued
+- Finally calmed, the spirit of Cima was able to communicate that her daughter was in danger, she was pregnant and the baby was some sort of monster.  She said she was sorry and was finally at peace
+- Alduin commented on how the group seemed like a budding new adventuring party, Nira disagreed wholeheartedly.  He said they should look into this matter in the town since Orbital Strike was looking for the shapeshifter and didn't have time.  
+- Feannag went to the graveyard and buried the body, everyone else went home to sleep as the sun rose
+- Long Rest
+- Level Up! (1->2)
 ### Session 4
 *Greenwake 42*
 - Party discussed moral implications of destroying Grung spawning pool
@@ -44,7 +61,7 @@
 - For some reason they then threatened Yarr and gaslit him into believing they didn't find a mermaid
 - On their way back through town they saw a crowd around [[People/Grey Hawk Citizens/Simon Sais\|Simon Sais]] and [[People/Grey Hawk Citizens/Iwana Sais\|Iwana Sais]]'s house, upon further inspection they found [[People/Grey Hawk Citizens/Reka Rearguard\|Reka Rearguard]] dead, clearly killed sometime in the middle of the night and found in the morning.  She had blunt trauma and a nasty bite taken out of her side, then she likely bled out.  She had a shovel with her.  
 - Feannag interviewed Simon, he said he heard the banging on his door again and a scream around 3am.  Investigation cut short when town guards arrived and took over.  
-- Trekked into [[Places/The High Forest\|The High Forest]] along the [[Places/Dessarin River\|Dessarin River]] for about 2 hours, found some Grung in the shallows of the river guarding a spawning pool full of tadpoles.  The Grung tried to chase them away, fired a warning shot and the party attacked and killed all but one who fled and went for backup.  
+- Trekked into [[Places/The High Forest\|The High Forest]] along the [[Places/Dessarin River\|Dessarin River]] for about 2 hours, found some Grung in the shallows of the river guarding a spawning pool full of tadpoles.  The [Grung](https://www.aidedd.org/dnd/monstres.php?vo=grung) tried to chase them away, fired a warning shot and the party attacked and killed all but one who fled and went for backup.  
 - While the air filled with the sounds of Grung in the trees the party considered whether or not to destroy the spawning pool and the ~300 tadpoles in it.  Nira blasted the pool with Sacred Flame before they fled
 - Aired took a sample of Orange Grung Poison
 ### Session 2
@@ -58,10 +75,10 @@
 - Wrenn met with their mentor [[People/Grey Hawk Citizens/Tam Thunderhand\|Tam Thunderhand]], who revealed that he was a forge cleric adventurer before he settled in [[Places/Grey Hawk\|Grey Hawk]], they worked together to forge a +1 shield and they learned to control a small amount of divine magic over a few hours of training montage
 - Feannag talked with [[People/Grey Hawk Citizens/Foke Barnswaggle\|Foke Barnswaggle]], who mentioned the well by his house seems poisoned and also heard tales of a mermaid in the lake from some local fishermen, Feannag blames the Reeve
 - Took a sample of water from the suspicious well and Aired analyzed it with his brewer's kit, decided to bring it to the expert: [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]]
-- Greg was in the middle of trying to "milk" the fluids of a Shambling Mound, a powerful plant monster of the High Forest.  The party helped him collect 3/5 spiles of fluid and escape the mound, but not before Wrenn and Aired dropped to 0HP
+- Greg was in the middle of trying to "milk" the fluids of a [Shambling Mound](https://www.dndbeyond.com/monsters/17011-shambling-mound), a powerful plant monster of the High Forest.  The party helped him collect 3/5 spiles of fluid and escape the mound, but not before Wrenn and Aired dropped to 0HP
 ### Session 1
 *Greenwake 40*
-- Aired, Rip, and Cock all tried to distract the thugs robbing the tavern but ended up getting [[People/Grey Hawk Citizens/Honey O'Dell\|Honey O'Dell]] shot when a fight broke out
+- Aired, Rip, and Cock all tried to distract the [bandits](https://www.dndbeyond.com/monsters/16798-bandit) robbing the tavern but ended up getting [[People/Grey Hawk Citizens/Honey O'Dell\|Honey O'Dell]] shot when a fight broke out
 - Cock and Rip dropped to 0HP
 - Wrenn tried and failed to use two spell scrolls, triggering wild magic surges.  The first frightened them and the second shot out a lightning bolt that immediately incinerated three of the bandits, causing the fourth to flee
 - Feannag saw two bandits escaping on a cart along with Nira's sheep, who were being controlled by an odd staff

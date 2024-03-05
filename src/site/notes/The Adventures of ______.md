@@ -13,6 +13,39 @@
 ---
 ## Session Notes
 [[Quests/Quest List\|Quest List]]
+### Session 7
+*Greenwake 43-44*
+- [[People/Player Characters/Aired Helelar\|Aired Helelar]] played [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]] in [[Dragzin's Gambit\|Dragzin's Gambit]] to try to get some information out of him
+- The party went down to the docks of the fishing village and stole a rowboat (no one from the town saw them but a few guards on a barge watched them)
+- After two hours of searching in the dark [[People/Grey Hawk Citizens/Saoirse\|Saoirse]] appeared and asked them how clearing out the Grung went.  She thanked them with an *Amulet of Clarity*, which can detect transmutation magic such as a shapeshifter
+- [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] asked her very pointedly about who she was and the party caught her in a few lies about the Grung and [[People/Grey Hawk Citizens/Goop\|Goop]], then [[People/Player Characters/Rip\|Rip]] cast detect magic and saw that she had an illusion on her, at which point the party attacked
+- [[People/Grey Hawk Citizens/Saoirse\|Saoirse]] dropped her disguise and revealed herself as a *Sea Hag*, then tried to sink the boat and drown the party for revealing her ruse
+- They fled, [[People/Player Characters/Nira\|Nira]] patching up holes in the boat, Feannag rowing, and the rest of the group attacking the hag to drive her off
+- [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] repaired the rowboat and cast *Identify* on the amulet to determine that it was actually a *Hag Eye*, which allows a hag to see and hear through it
+- They buried the amulet near Nira's outhouse
+- Long Rest
+- Grund appeared at Wrenn's door at dawn, and they helped upgrade his axe
+- The party gathered and went into [[Places/The High Forest\|The High Forest]] to investigate the druidic runes
+- Grund transformed into a Dire Wolf and read the incantation, which opened a glowing green portal within the tree
+- Aired went through, and the rope they tied around him went slack, and he returned to beckon the party through
+- They were transported to *The Beastlands* an outer plane and the place souls of those who were at one with nature go to rest when they die.  The sky is a brilliant blue with huge towering white clouds, the sun is directly overhead beating down on the savannah they stepped out into, and there is a dense forest surrounding the plain.  Animals are everywhere, antelope, zebras, meerkats, and eagles to name a few
+- They spoke to a talking meerkat who explained the Beastlands to them and how Clarence is a petitioner, a soul who is bound the the body of a horse in the Beastlands, but he returns to the *Material Plane* often through the portal in the tree.  The conversation was cut short when Grund in wolf form attacked and killed the meerkat, feeling a primal hunger and need to hunt inherent to the Beastlands
+- Wrenn revived the meerkat and it fled, but then they were charged by a magical [Rhinoceros](https://www.dndbeyond.com/monsters/16996-rhinoceros) that was able to cast spells, which dropped Rip to 0HP before it was taken down by the party
+- Some were compelled to eat what they had killed, but then they opened the portal and went back to The High Forest
+### Session 6
+*Greenwake 43*
+- [[People/Player Characters/Cock\|Cock]] woke up in [[People/Player Characters/Nira\|Nira]]'s barn loft and as he grabbed his gun and journal he was shot by a halfling rogue who wanted to take him out to steal his weapon
+- [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]], [[People/Player Characters/Nira\|Nira]], and the rest of the party were nearby and were able to help dispatch [[People/Adversaries/Xanla Dustfeet\|Xanla Dustfeet]] and her mercenaries
+- Upon killing Xanla, Cock's weapon Pi'za absorbed the essence of her weapon, becoming stronger in the process.  It also mentioned that he must learn to detect other "Black Saints" who would be after him
+- Nira, not wanting three bodies in her barn, tried to dump the bodies in the river, but was caught by [[People/Grey Hawk Citizens/Foke Barnswaggle\|Foke Barnswaggle]] in the process.  His head was heavily bandaged and he seemed disoriented, but when he saw the bodies he ran to tell [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] he suspected Nira of being the shapeshifter.  They ended up leaving the bodies in the barn
+- Went to [[Places/Geshtai's Chapel\|Geshtai's Chapel]] to check on [[People/Grey Hawk Citizens/Simon Sais\|Simon Sais]] and [[People/Grey Hawk Citizens/Iwana Sais\|Iwana Sais]], where they met [[People/Grey Hawk Citizens/Brother Collamir\|Brother Collamir]] and [[People/Grey Hawk Citizens/Sister Tasarda\|Sister Tasarda]], who said that her pregnancy had been hijacked somehow by a powerful being.  Nira recognized this as something an evil fey might do, and Wrenn inquired if Iwana had made any sort of deal, then remembered how her mother's ghost had been apologetic and assumed that it was her mother who may have made the bargain
+- As the party left the temple a huge herd of barbarians, mostly men, dwarves, and orcs, marched into town.  This was [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]] and they were in town for their equinox ritual
+- The party went back into [[Places/The High Forest\|The High Forest]] and read the runes on the tree they saw [[People/Grey Hawk Citizens/Clarence\|Clarence]] walk into, Cock was able to decipher that they said "Door to Paradise" and there was some kind of incantation in druidic as well
+- On the way back they also found some mushrooms that might be useful to brew tea
+- Back in town, [[People/Player Characters/Aired Helelar\|Aired Helelar]] reunited with some drinking buddies who are members of the horde, including [[People/Other Adventurers/Ogdin's Horde/Thorgeir Thrumpek\|Thorgeir Thrumpek]], [[People/Other Adventurers/Ogdin's Horde/Gudbrand the Elder\|Gudbrand the Elder]] and [[People/Other Adventurers/Ogdin's Horde/Ogdin The Anvil\|Ogdin The Anvil]] himself, who were making a huge mess of the [[Places/The Bursting Barrel\|The Bursting Barrel]] and drinking heavily
+- The group gambled with the horde, playing a game called [[Dragzin's Gambit\|Dragzin's Gambit]]
+- They asked if anyone in the horde knew druidic, and Gudbrand sent them to [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]], a new recruit and a druid, who was dismissive of the runes calling them fairy tales, but when [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] offered to upgrade his battleaxe he agreed to help them recite the incantation
+- As they shook on it Aired noticed a brand on Grund's hand: the mark of a group of orc raiders who burned down his village years ago, a skull with three claw marks through it
 ### Session 5
 *Greenwake 42*
 - After discussing how to set a trap to catch whatever was banging on Simon and Iwana's door, the party followed [[People/Grey Hawk Citizens/Clarence\|Clarence]] on his midnight trot into the woods
@@ -37,7 +70,7 @@
 - The party chased but it escaped all grapples with slippery oil on its skin and using small dimensional rifts to flee.  Party opted not to chase into [[Places/The High Forest\|The High Forest]]
 - Saw [[People/Grey Hawk Citizens/Clarence\|Clarence]] walking around in the forest, Nira called him over and fed him some hay then they all went back to town
 - Back in town they saw the villagers queueing up to go into a small booth set up with a magical aura around it
-- Feannag snuck up to it and overheard [[People/Other Adventurers/Alduin Silversmite\|Alduin Silversmite]] interviewing villagers one-by-one for info on the shapeshifter.  He was using Zone of Truth to get secrets out of people, and guards were marking off names from the book when they had been vetted by Alduin
+- Feannag snuck up to it and overheard [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] interviewing villagers one-by-one for info on the shapeshifter.  He was using Zone of Truth to get secrets out of people, and guards were marking off names from the book when they had been vetted by Alduin
 - Aired went in for an interrogation, passed easily, Cock went in and was detained for not being able to answer truthfully due to his failed memory
 - Nira was able to vouch for him to get him free of the guard's quarters
 - Feannag and Wrenn had no interest in being interrogated, wanted to sneak away and avoid Alduin
@@ -54,7 +87,7 @@
 - Greg also mentioned that he was working on Lightning Resistance Potions with the Shambling Mound fluid and that they should bring interesting fluids to him for trade in the future
 - Went to [[Places/The Bursting Barrel\|The Bursting Barrel]] and spoke with [[People/Grey Hawk Citizens/Nora Gremble\|Nora Gremble]], [[People/Grey Hawk Citizens/Gerthwin Bartelby\|Gerthwin Bartelby]], and [[People/Grey Hawk Citizens/Dutch 'The Boozer King' Ottenbrau\|Dutch 'The Boozer King' Ottenbrau]], while Nora was feeding [[People/Grey Hawk Citizens/Clarence\|Clarence]], who seemed to have miraculously healed from his injuries the night before
 - Went to the docks of the fishing village, met [[People/Grey Hawk Citizens/Yarr Xibloes\|Yarr Xibloes]] who offered to take them out to look for the mermaid in the morning
-- Went back to The Bursting Barrel where Tony's Pajamas were found, [[People/Other Adventurers/Void\|Void]] was already there, they described the danger of the shapeshifter and how they'd been tracking it for over a year since it's kind wiped out their village somewhere among the stars
+- Went back to The Bursting Barrel where Tony's Pajamas were found, [[People/Other Adventurers/Orbital Strike/Void\|Void]] was already there, they described the danger of the shapeshifter and how they'd been tracking it for over a year since it's kind wiped out their village somewhere among the stars
 - Long Rest
 - Woke up early and went out with Yarr to find the mermaid by the waterfall
 - [[People/Grey Hawk Citizens/Saoirse\|Saoirse]] introduced herself, said she'd been living in the lake for years but the poison was ruining the water, must be coming from a village of poisonous Grung upriver spawning in the waters
@@ -68,10 +101,10 @@
 *Greenwake 41*
 - Aired tried out his new brewer's kit but the bottle exploded
 - Feannag and Nira discussed how to keep the sheep safe in the future
-- A town meeting was called, led by [[People/Other Adventurers/Alduin Silversmite\|Alduin Silversmite]] and [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]], announcing that there was likely a shapeshifter in their midst.  The shapeshifter is dangerous and can assume anyone's form, so villagers should travel in groups of three for safety.  An investigation was being conducted to track down the shapeshifter.  Tony's Pajamas were found behind [[Places/The Bursting Barrel\|The Bursting Barrel]], so he was likely the shapeshifter and has taken on a new form
+- A town meeting was called, led by [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] and [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]], announcing that there was likely a shapeshifter in their midst.  The shapeshifter is dangerous and can assume anyone's form, so villagers should travel in groups of three for safety.  An investigation was being conducted to track down the shapeshifter.  Tony's Pajamas were found behind [[Places/The Bursting Barrel\|The Bursting Barrel]], so he was likely the shapeshifter and has taken on a new form
 - [[People/Grey Hawk Citizens/Simon Sais\|Simon Sais]] spoke up at the meeting, saying there was a banging and scratching at his door around 3am last night
 - Wrenn spoke up, concerned they were the shapeshifter after their magical lightning outburst the night before
-- Nira pulled [[People/Other Adventurers/Gabriella Starsyx\|Gabriella Starsyx]] aside for a quick discussion of her fledgling magical abilities, though somewhat rude Gabriella was able to give her some pointers, Rip also followed along and both gained a modicum of control over simple spells
+- Nira pulled [[People/Other Adventurers/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]] aside for a quick discussion of her fledgling magical abilities, though somewhat rude Gabriella was able to give her some pointers, Rip also followed along and both gained a modicum of control over simple spells
 - Wrenn met with their mentor [[People/Grey Hawk Citizens/Tam Thunderhand\|Tam Thunderhand]], who revealed that he was a forge cleric adventurer before he settled in [[Places/Grey Hawk\|Grey Hawk]], they worked together to forge a +1 shield and they learned to control a small amount of divine magic over a few hours of training montage
 - Feannag talked with [[People/Grey Hawk Citizens/Foke Barnswaggle\|Foke Barnswaggle]], who mentioned the well by his house seems poisoned and also heard tales of a mermaid in the lake from some local fishermen, Feannag blames the Reeve
 - Took a sample of water from the suspicious well and Aired analyzed it with his brewer's kit, decided to bring it to the expert: [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]]
@@ -88,9 +121,9 @@
 - As Nira's life was fading she saw a vision of a dragon who claimed to be her ancestor from 1000 years ago, and that she was the last living relative of a line of great lunar sorcerers, the last being Nira's great-great grandmother Midna.  The dragon invited Nira to explore her new powers and someday visit her on the moon
 - A burst of necrotic energy erupted from Nira, killing the remaining bandits and restoring her health as her lunar powers awakened.  
 - Meanwhile Aired chased after one fleeing bandit, Tony Pajamas, who managed to escape after taking a suspiciously high amount of damage
-- A party of adventurers came down the wandering path, introduced themselves as [[People/Other Adventurers/Orbital Strike\|Orbital Strike]], including [[People/Other Adventurers/Alduin Silversmite\|Alduin Silversmite]], [[People/Other Adventurers/Gabriella Starsyx\|Gabriella Starsyx]], [[People/Other Adventurers/Void\|Void]], and [[People/Other Adventurers/Hubert Mugwort\|Hubert Mugwort]].  Said they were chasing a fugitive shapeshifter who had infiltrated Candlekeep's vault and stolen a powerful artifact known as the Astral Orb.  
+- A party of adventurers came down the wandering path, introduced themselves as [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]], including [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]], [[People/Other Adventurers/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]], [[People/Other Adventurers/Orbital Strike/Void\|Void]], and [[People/Other Adventurers/Orbital Strike/Hubert Mugwort\|Hubert Mugwort]].  Said they were chasing a fugitive shapeshifter who had infiltrated Candlekeep's vault and stolen a powerful artifact known as the Astral Orb.  
 - The party was pointed towards the bandit's camp down the road and looted it to find adventuring gear, gold, and a cache of magical items
-- Cock found a Cloak of Billowing and a strange weapon called Pi'za that seemed to speak through him when he picked it up, calling him "Puppet" and mentioning that it used to be bonded to him before Cock broke the bond, destroying his memory in the process
+- Cock found a *Cloak of Billowing* and a strange weapon called Pi'za that seemed to speak through him when he picked it up, calling him "Puppet" and mentioning that it used to be bonded to him before Cock broke the bond, destroying his memory in the process
 - Long Rest
 - Level up! (0->1)
 ### Session 0

@@ -13,4 +13,4 @@ Starting Village Background: [[Places/Grey Hawk\|Grey Hawk]]
 
 Current Objectives: [[Quests/Quest List\|Quest List]]
 
-Other Characters: [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]]
+Other Characters: [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]], [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]]

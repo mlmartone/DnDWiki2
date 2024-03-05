@@ -46,5 +46,5 @@ The Grey Hawk Bridge lies along [[Places/The Wanderer's Path\|The Wanderer's Pat
 | Event | Date | Notes |
 | ---- | ---- | ---- |
 | Tavern Robbery | Greenwake 40 | Some thugs from 'The Juice Crew' held up [[Places/The Bursting Barrel\|The Bursting Barrel]] for pocket cash and were beaten back by a fledgling adventuring party. |
-| Arrival of Orbital Strike | Greenwake 40 | A group of high-level adventurers that call themselves [[People/Other Adventurers/Orbital Strike\|Orbital Strike]] has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them. |
+| Arrival of Orbital Strike | Greenwake 40 | A group of high-level adventurers that call themselves [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]] has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them. |
 | Murder of Reka Rearguard | Greenwake 42 | Reka was found dead outside of Simon and Iwana's house.   |

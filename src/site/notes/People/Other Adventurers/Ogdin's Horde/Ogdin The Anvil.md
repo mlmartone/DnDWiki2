@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/people/other-adventurers/ogdin-s-horde/ogdin-the-anvil/"}
+---
+
+Ogdin is a mountain of a man, a human barbarian who stands nearly seven feet tall and over four hundred pounds of muscle.  He leads a horde of warriors known as [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]], and tries to do good.  A reformed outlaw himself, he sees it as his calling to show those who use their physical strength to overpower others that they can be a force for good.  He strongly believes in redemption through hard work, and is a devout worshiper of Kord, the god of strength.  He is well known in Grey Hawk, having helped out the town in times of need several times in the past decade, and has an old friendship with [[People/Grey Hawk Citizens/Tam Thunderhand\|Tam Thunderhand]], the only blacksmith he trusts to work on his immense warhammer, "Crushinator."  
+![Pasted image 20240304232356.png](/img/user/Z_Attachments/Pasted%20image%2020240304232356.png)

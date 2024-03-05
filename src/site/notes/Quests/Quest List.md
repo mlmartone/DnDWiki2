@@ -3,6 +3,7 @@
 ---
 
 ### Personal Quests
+[[Quests/Drinking to Forget\|Drinking to Forget]]
 [[Quests/Pi'za Party\|Pi'za Party]]
 [[Quests/To The Moon\|To The Moon]]
 ### Party Quests/Leads

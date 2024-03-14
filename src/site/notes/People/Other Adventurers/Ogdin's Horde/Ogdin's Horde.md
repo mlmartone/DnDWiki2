@@ -12,3 +12,4 @@ Twice a year during the spring and autumn equinoxes the horde visits [[Places/Gr
 [[People/Other Adventurers/Ogdin's Horde/Thorgeir Thrumpek\|Thorgeir Thrumpek]]
 [[People/Other Adventurers/Ogdin's Horde/Gudbrand the Elder\|Gudbrand the Elder]]
 [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]]
+[[People/Other Adventurers/Ogdin's Horde/Sigbjorn Hagisson\|Sigbjorn Hagisson]]

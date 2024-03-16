@@ -13,6 +13,24 @@
 ---
 ## Session Notes
 [[Quests/Quest List\|Quest List]]
+### Session 9
+*Greenwake 44-45*
+- While the rest of the party was arrested and entering into the trials, [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] tailed [[People/Grey Hawk Citizens/Foke Barnswaggle\|Foke Barnswaggle]] and saw that he was speaking to the amulet and missing an eye
+- He convinced Foke to hand over the Amulet of Clarity (wrapped up so the hag couldn't spy) and to go to [[Places/Geshtai's Chapel\|Geshtai's Chapel]] to seek healing from [[People/Grey Hawk Citizens/Brother Collamir\|Brother Collamir]]
+- Feannag then snuck past the guards and joined the party in the tunnels clearing out the Kruthik
+- While exploring the side tunnels, [[People/Player Characters/Cock\|Cock]] saw a glimmer that turned out to be the reflection of his torchlight on a solid polished steel wall
+- The party followed tunnels along the wall and came across four young kruthik devouring a corpse.  After dispatching them and harvesting their spines the party saw that the body belonged to a deep gnome named L'Arsene, who had been on an expedition to find some sort of lab filled with dangerous experiments
+- Looting L'Arsene's backpack revealed a set of tools used to dissect monsters and harvest their components for crafting, along with her Guide to Monster Hunting, a Bag of Colding, and a set of goggles that can identify crafting components on corpses
+- [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] and [[People/Player Characters/Rip\|Rip]] also found a small black pseudodragon hiding in the pack, and after patiently enticing the animal they were able to convince it to join their party for now, Rip named the dragon [[People/Other Adventurers/Pointy\|Pointy]] for its stinging sharp tail
+- Following along the curving steel wall in the tunnel the party came to an alcove with a huge steel door with warnings written in every language, they decided not to try to explore the lab at this time
+- Next they found themselves in a humungous cavern filled with bioluminescent fungi, their first true taste of the immensity of the **Underdark**.  From here they could see the curving steel dome of the lab exposed and seeming very out of place in this natural cavern.  They also saw a herd of Rothè grazing in the area and a continuation of the Kruthik tunnels leading deeper into the nest
+- They doubled back, trying to get away from the steel wall that was hindering the transmutation detection of the Amulet Feannag had obtained.  When away from the wall it was still active, its eye aimed squarely at [[People/Other Adventurers/Ogdin's Horde/Sigbjorn Hagisson\|Sigbjorn Hagisson]]
+- Realizing they were in great danger, the party stalled for time and used the Sending Stones to contact Alduin, asking him to send in Void to help
+- Short Rest
+- After two hours of stalling they realized Void wasn't coming, Nira left the tunnels and spoke to the barbarian guard who said they had caught someone trying to sneak in, when she heard a crash behind her
+- Back in the tunnels the party was being hunted by six adult Kruthik that caused a cave-in to separate the party into groups to be easier prey.  Rip and Feannag nearly died, but they, Nira, Wrenn, and Cock were able to drive off the monsters
+- Sigbjorn and Aired didn't fare so well, and they were nearing death when Sigbjorn's demeanor changed, he threw down his axes and his eyes glowed an eerie blue as he released a powerful burst of psionic energy, crushing the two Kruthik and knocking Aired unconscious
+- The last Wrenn saw through a gap in the rocks was that burst of energy before the rest of the tunnel collapsed, completely locking Aired away with the shapeshifter
 ### Session 8
 *Greenwake 44-45*
 - Returning from their excursion to *The Beastlands*, the party spoke to [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]] who seemed keen on returning to the hunter's paradise with the rest of his orc clan.  The group decided to warn [[People/Grey Hawk Citizens/Clarence\|Clarence]]
@@ -33,8 +51,8 @@
 - [[People/Player Characters/Rip\|Rip]] used detect magic to search the camp and didn't find the orb, but picked up a bunch of magical armaments and a magical ring in Grund's tent
 - Long Rest
 - The next morning they entered the trials to join the Horde, and up on [[Places/Ogdin's Overlook\|Ogdin's Overlook]] Ogdin rolled aside a great boulder, revealing an entrance to a cave system that lead to the **Underdark**
-- The recruits were split into two teams (orcs and party+Sigbjorn) and told to go exterminate a hive of Kruthic, alien reptile-insect hybrids that burrow through the ground in the Underdark and perpetually need to be driven back or else they would erupt onto the surface.  Each person was given two flasks of Alchemist's Fire to fight the monsters and told to bring back as many spines as possible to show the successful eradication of the hive
-- After an hour of searching the dark, dank tunnels the party was ambushed by Kruthic and barely managed to drive them off, killing 3 and taking their spines in the process
+- The recruits were split into two teams (orcs and party+Sigbjorn) and told to go exterminate a hive of [Kruthik](https://www.aidedd.org/dnd/monstres.php?vo=adult-kruthik), alien reptile-insect hybrids that burrow through the ground in the Underdark and perpetually need to be driven back or else they would erupt onto the surface.  Each person was given two flasks of Alchemist's Fire to fight the monsters and told to bring back as many spines as possible to show the successful eradication of the hive
+- After an hour of searching the dark, dank tunnels the party was ambushed by Kruthik and barely managed to drive them off, killing 3 and taking their spines in the process
 ### Session 7
 *Greenwake 43-44*
 - [[People/Player Characters/Aired Helelar\|Aired Helelar]] played [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]] in [[Dragzin's Gambit\|Dragzin's Gambit]] to try to get some information out of him

@@ -13,6 +13,7 @@
 [[Quests/Bump in the Night\|Bump in the Night]]
 [[Quests/Missing Bitts (and Zuri)\|Missing Bitts (and Zuri)]]
 [[Quests/For the Horde!\|For the Horde!]]
+[[Quests/Sealed in the Lab\|Sealed in the Lab]]
 [[Quests/Track Down the Astral Orb\|Track Down the Astral Orb]]
 ### Ongoing Quests
 [[Quests/Fluids of Inconceivable Peculiarity\|Fluids of Inconceivable Peculiarity]]

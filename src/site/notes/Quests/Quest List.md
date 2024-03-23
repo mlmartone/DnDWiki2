@@ -9,7 +9,7 @@
 ### Party Quests/Leads
 [[Quests/Investigate the Poisoned Well\|Investigate the Poisoned Well]]
 [[Quests/Clarence's Midnight Trot\|Clarence's Midnight Trot]]
-[[Quests/Graverobbing Herself\|Graverobbing Herself]] (No Longer Available)
+[[Quests/Archived/Graverobbing Herself\|Graverobbing Herself]] (No Longer Available)
 [[Quests/Bump in the Night\|Bump in the Night]]
 [[Quests/Missing Bitts (and Zuri)\|Missing Bitts (and Zuri)]]
 [[Quests/For the Horde!\|For the Horde!]]

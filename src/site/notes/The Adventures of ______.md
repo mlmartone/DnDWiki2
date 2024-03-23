@@ -13,6 +13,23 @@
 ---
 ## Session Notes
 [[Quests/Quest List\|Quest List]]
+### Session 10
+*Greenwake 45*
+- After the cave-in the party called out to [[People/Player Characters/Aired Helelar\|Aired Helelar]] but there was no response
+- [[People/Other Adventurers/Ogdin's Horde/Ogdin The Anvil\|Ogdin The Anvil]] and [[People/Other Adventurers/Ogdin's Horde/Gudbrand the Elder\|Gudbrand the Elder]] arrived, hearing the cave-in from outside.  Ogdin was upset that they had been separated from the rest of their team and that [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] had snuck into the trial
+- The party persuaded Ogdin to let them continue the trial and they began their search for Aired, Feannag was brought back up for healing and questioning
+- They discovered that the blood of the Kruthik has a pheromone that repels them, so [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] kept the vial open to ward off ambushes
+- Two Adult Kruthik blocked their path, and after a failed stealth check by [[People/Player Characters/Rip\|Rip]] a fight broke out.  [[People/Player Characters/Cock\|Cock]] went down and was being dragged away by a Kruthik, nearly dying in the process before Wrenn was able to use the immovable rod to keep him in place and drive the Kruthik off
+- The party took a short rest and harvested a large spine from the Kruthik they were able to dispatch, then continued down the tunnels
+- In the cavernous **Underdark** [[People/Player Characters/Nira\|Nira]]'s keen eyes were able to spot the tracks of [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]]'s group going deeper into the hive then returning with fewer tracks, the party decided to follow them back up the tunnel to the site of the cave-in
+- At the caved-in area they found two dead Kruthik with their spines removed, but no sign of Aired, [[People/Other Adventurers/Ogdin's Horde/Sigbjorn Hagisson\|Sigbjorn Hagisson]], or the Orcs.  There was a trickle of water flowing through the collapsed rubble
+- Backtracking again, the party explored new tunnels, one of which had a steady stream of water running down it as they climbed upwards, the rushing water intensifying as they neared the end at a large boulder
+- Nira shaped water and ice and Cock pushed to dislodge the boulder, revealing an opening to the outside at the foot of [[Places/Ogdin's Overlook\|Ogdin's Overlook]].  A downpour was causing flooding that drained into the tunnels, with thunder rumbling regularly
+- Backtracking yet again, the party returned to the tunnels, but shortly heard the sound of gurgling breathing and splashing behind them
+- Turning they saw what remained of [[People/Grey Hawk Citizens/Foke Barnswaggle\|Foke Barnswaggle]], now covered in slimy fish scales, barnacles, and poisonous spines since he had been turned into a [Sea Spawn](https://dr-eigenvalue.github.io/bestiary/creature/sea-spawn), presumably by the hag he unknowingly served
+- Rip was forced to kill Foke as he attacked and tried to take the *Hag Eye* Amulet, delivering his final mail as his body floated off down the rushing water in the tunnel
+- Delving deeper into the flooding tunnels, the party stopped to plan, realizing that they were running out of time between [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]]'s threat to attack [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]], Aired's disappearance along with Sigbjorn who they presumed to be the shapeshifter, and their dwindling resources as they were repeatedly attacked by Kruthik in the tunnels.  Finally, they decided to return to the surface to tell Ogdin that they were done with the trial
+- Stepping out into the howling wind and driving rain the party saw no guard at the top of Ogdin's Overlook, instead flashes of lightning illuminated a chaotic scene on the field before them.  With regularity, every minute a brilliant bolt of lightning would strike the ground, leaving behind a kneeling paladin in glowing plate mail to join the growing ranks of Alduin's force.  Across the field Ogdin's horde clamored and chanted in defiance of the new threat
 ### Session 9
 *Greenwake 44-45*
 - While the rest of the party was arrested and entering into the trials, [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] tailed [[People/Grey Hawk Citizens/Foke Barnswaggle\|Foke Barnswaggle]] and saw that he was speaking to the amulet and missing an eye

@@ -13,6 +13,23 @@
 ---
 ## Session Notes
 [[Quests/Quest List\|Quest List]]
+### Session 11
+*Greenwake 45-Seedtime 1*
+- [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] woke up in the infirmary of [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]]'s camp, snuck out to join the rest of the party as they came down from [[Places/Ogdin's Overlook\|Ogdin's Overlook]]
+- The party briefly spoke to [[People/Other Adventurers/Ogdin's Horde/Gudbrand the Elder\|Gudbrand the Elder]], who congratulated them on completing the trial and told them to return tomorrow to continue the rites
+- Seeing [[People/Other Adventurers/Ogdin's Horde/Ogdin The Anvil\|Ogdin The Anvil]] and [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] readying for a fight, they convinced Ogdin to parlay to avoid a costly battle.  Together they crossed the sodden field in the rain to meet with Alduin and [[People/Other Adventurers/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]]
+- Alduin wanted access to the horde to interrogate the barbarians and the safe release of [[People/Other Adventurers/Orbital Strike/Void\|Void]], who had been captured trying to sneak in
+- Ogdin wanted to avoid the intrusion of external justice into his group, but agreed that if the shapeshifter remained dangerous and wouldn't return the Orb, he should be brought to some justice
+- They agreed on Alduin setting a bounty of 5,000GP for the return of the fugitive and the Orb, which Ogdin's horde would take up.  However, Ogdin insisted that if the fugitive showed remorse and offered to take the oaths of the horde it would be offered mercy, but the Orb would still be turned over.  As a show of good faith he ordered the release of Void
+- On the way back to [[People/Player Characters/Nira\|Nira]]'s ranch, the party was hailed by a cloaked figure.  Suspicious, they didn't approach him, but he tried to rob them at gunpoint
+- He attacked not only with a weapon similar to [[People/Player Characters/Cock\|Cock]]'s, but also with a series of small bombs, one of which created a fog cloud that flummoxed the party before they dispatched him in combat
+- They were able to recover some of these bombs, along with Pi'za absorbing the essence of the man's weapon
+- Back at Nira's farm, she found that Sheep #38 was missing
+- Long Rest
+- Level Up! (2->3)
+- In the morning Feannag and [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] poked around at the bombs they had found, successfully disassembling them and reverse engineering ice, acid, and grease bombs.  In the process of reassembling them Feannag set off the ice bomb in his face, losing the existing bombs but gaining the knowledge of how to make more
+- Nira and Cock tracked the missing sheep to the river's edge, where they saw tracks leading straight into the water.  Nira felt a slight mental pulse of energy through the Crook of Command that indicated the missing sheep was below the river bank
+- Together they rappelled down the overhanging bank and saw that there seemed to be an underwater cave entrance down there
 ### Session 10
 *Greenwake 45*
 - After the cave-in the party called out to [[People/Player Characters/Aired Helelar\|Aired Helelar]] but there was no response

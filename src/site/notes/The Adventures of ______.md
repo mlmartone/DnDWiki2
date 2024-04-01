@@ -29,7 +29,7 @@
 - Level Up! (2->3)
 - In the morning Feannag and [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] poked around at the bombs they had found, successfully disassembling them and reverse engineering ice, acid, and grease bombs.  In the process of reassembling them Feannag set off the ice bomb in his face, losing the existing bombs but gaining the knowledge of how to make more
 - Nira and Cock tracked the missing sheep to the river's edge, where they saw tracks leading straight into the water.  Nira felt a slight mental pulse of energy through the Crook of Command that indicated the missing sheep was below the river bank
-- Together they rappelled down the overhanging bank and saw that there seemed to be an underwater cave entrance down there
+- Together they rappelled down the overhanging bank and went for a swim and saw that there seemed to be an underwater cave entrance down there
 ### Session 10
 *Greenwake 45*
 - After the cave-in the party called out to [[People/Player Characters/Aired Helelar\|Aired Helelar]] but there was no response

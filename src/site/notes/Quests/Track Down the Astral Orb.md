@@ -11,3 +11,5 @@ Help [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]] 
 *Greenwake 44*: [[People/Grey Hawk Citizens/Gerthwin Bartelby\|Gerthwin Bartelby]] has had the orb, but now she's gone missing, was she the shapeshifter all along?  Evidence points to someone in [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]] now.  
 
 *Greenwake 45*: [[People/Other Adventurers/Ogdin's Horde/Sigbjorn Hagisson\|Sigbjorn Hagisson]] was last seen causing a cave-in in the tunnels using a powerful psionic blast.  This surely could only mean that he is the dreaded shapeshifter.  
+
+Alduin has set a bounty of 5000GP for the return of the fugitive and the Astral Orb.  Ogdin's Horde has taken on the contract for the bounty, believing the shapeshifter may be in their midst.  

@@ -13,6 +13,26 @@
 ---
 ## Session Notes
 [[Quests/Quest List\|Quest List]]
+### Session 12
+*Greenwake 45-Seedtime 1*
+- [[People/Player Characters/Aired Helelar\|Aired Helelar]] came to consciousness in the Kruthik tunnels while being carried by [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]] and noticed that his earring was actually the elven ring owned by his friend before she died in an orc raid
+- Aired was put in the infirmary and had his injuries tended to by [[People/Other Adventurers/Ogdin's Horde/Gudbrand the Elder\|Gudbrand the Elder]], but wasn't able to convince him about what happened in the tunnels
+- He then snuck out of Ogdin's encampment, made his way to [[People/Player Characters/Nira\|Nira]]'s barn and passed out in a haystack
+- In the morning Aired rejoined the party and told them about his tragic backstory, the group decided to kill Grund and his orc crew and pin it on the shapeshifter
+- The party went to [[Places/Geshtai's Chapel\|Geshtai's Chapel]] where [[People/Grey Hawk Citizens/Brother Collamir\|Brother Collamir]] was cleaning up the mess from when [[People/Grey Hawk Citizens/Foke Barnswaggle\|Foke Barnswaggle]] transformed into a Sea Spawn and attacked them after his curse was lifted
+- He taught the party about Sea Hags; their weird magic that doesn't seem to obey rules, that they love to offer bargains that end poorly for those that take them, and that they hate beauty above all else
+- The party came up with a plan to set a trap at a mock beauty pageant by the river to catch the hag
+- Outside they ran into [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]], who sold them some potions and bomb-making supplies as well as offered to turn their Kruthik saliva into potions of darkvision
+- [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] went with Greg and spent the day learning about how to use an alchemy kit to make explosive charges, meanwhile [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] made some bomb casings at the forge
+- The rest of the party set up an elaborate trap by the rivers edge, using fake flyers littered in the river to lure the hag to their pageant, where Nira was in disguise as a contestant
+- As she looked in the water she saw horrifying visions, then was attacked by two Sea Spawn sent by the hag to wreck the pageant, the party dispatched them quickly
+- Using Blessings of Geshtai to breathe underwater they then went into the depths of the lake to seek out the hag's lair, finding a grotesque garden of rotting hands reaching up through the lakebed outside a cave
+- Wrenn, unable to swim in full armor, is grabbed by one of the hands and the hag is alerted to their presence
+- Inside they found themselves in a small grotto that reeked of fish and low tide, detritus and odd artifacts littered the ground along with increasingly complex Rube-Goldberg-esqe contraptions that the party assumed to be mousetraps.  They also saw the two missing children ([[People/Grey Hawk Citizens/Bitts Goldcrest\|Bitts Goldcrest]] and [[People/Grey Hawk Citizens/Zuri Xibloes\|Zuri Xibloes]]) and Nira's sheep in cages, in the center the hag stood on a platform stirring a massive bubbling cauldron
+- She said she had been expecting them and asked if they brought gifts, then Nira was able to surmise that the hag might be afraid of mice, and used a silent image to scare her into dropping her illusion, revealing Bitts at the cauldron and her true self in one of the cages
+- She offered them many bargains in exchange for the children and sheep, but the party refused, instead shooting her with a crossbow, which she instantly seemed to heal from
+- The hag explained that any damage she took would be absorbed by the life force of the poisoned villagers, so they shouldn't bother trying to kill her
+- Instead the party took aim at her precious cauldron, with Wrenn and [[People/Player Characters/Cock\|Cock]] shattering it quickly as she sprung into combat, however the attack was short lived as [[People/Player Characters/Rip\|Rip]] caught the hag with Suggestion, telling her to sit and be quiet for a few hours while they thought of a plan to break the curse
 ### Session 11
 *Greenwake 45-Seedtime 1*
 - [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] woke up in the infirmary of [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]]'s camp, snuck out to join the rest of the party as they came down from [[Places/Ogdin's Overlook\|Ogdin's Overlook]]

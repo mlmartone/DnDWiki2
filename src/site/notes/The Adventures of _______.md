@@ -13,6 +13,32 @@
 ---
 ## Session Notes
 [[Quests/Quest List\|Quest List]]
+### Session 13
+*Seedtime 1*
+- The party decided what to do with the Sea Hag they had captured and charmed with *Suggestion*, and split up to cover more ground
+- [[People/Player Characters/Aired Helelar\|Aired Helelar]], [[People/Player Characters/Cock\|Cock]], and [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] went up to [[Places/Geshtai's Chapel\|Geshtai's Chapel]] and convinced [[People/Grey Hawk Citizens/Sister Tasarda\|Sister Tasarda]] to give them more blessings for the children, she expects some sort of donation to the chapel in return
+- On the way back they looked around the poisoned well directly above the hag's lair, Cock dove in and saw some bubbles but otherwise just managed to drink some cursed water
+- In the lair [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] calmed [[People/Grey Hawk Citizens/Bitts Goldcrest\|Bitts Goldcrest]] down and got her hands mostly free, while [[People/Player Characters/Nira\|Nira]] and [[People/Grey Hawk Citizens/Zuri Xibloes\|Zuri Xibloes]] chatted about Sheep #38, who Zuri calls "Dollie"
+- The kids told the party that they were swallowed by a toad while playing in the shallows and they woke up here, Wrenn tried to communicate with the large toad, but it seemed to be unnatural and undead
+- The party looked around the lair, found more growing hands, mousetraps, and some interesting items: a piece of fish skin with dots corresponding to curse victims, a golden chain necklace, a ring, a mermaid disguise and many seaweed and bone [fetishes](https://www.merriam-webster.com/dictionary/fetish) and dolls
+- Using the *Blessings of Geshtai*, the party returned the children to the surface and to their families.  [[People/Grey Hawk Citizens/Yarr Xibloes\|Yarr Xibloes]] was grateful and gave them the 10GP reward, the Goldcrest butler told them to go see [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]] about the 500GP reward
+- One of the fishermen in the village had died from a phantom crossbow bolt, likely due to the curse of protection from the hag
+- Nira wanted to get the sheep out of the lair, so she had the undead toad swallow it then used the *Crook of Command* to make the sheep roll the toad forward and out of the lair
+- Alone with the toad on the surface Nira attacked it to try to free the sheep, but it instead knocked her unconscious and swallowed her, shrinking back to it's small size just as Cock caught up to it
+- Feannag and Aired were able to retrieve Nira and the sheep, but they remained tiny when taken from the toad's mouth, they then killed the toad and burned the body
+- Returning to the lair where the hag was still captive, they creatively used rain to clear out some of the smoke from the hag's brew that was keeping her protected, they then tied the hag down using rope and the immovable rod
+- Knowing that they had only one chance before the hag broke the charm, the entire party piled on huge attacks on the [Sea Hag](https://www.dndbeyond.com/monsters/17008-sea-hag), killing her instantly without allowing her to use her protection curse
+- They got to work harvesting the hag's psyche, hair, claws, and some skin, then looted the lair and left
+- Now the evening they dried off and went to [[Places/Ogdin's Overlook\|Ogdin's Overlook]] to take part in the remaining trials to join the horde
+- Before oaths to the horde were taken, [[People/Other Adventurers/Ogdin's Horde/Ogdin The Anvil\|Ogdin The Anvil]] offered a chance for anyone to object to an initiate joining the horde, and Aired stepped up to challenge [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]], using his ring that matched one Grund carried as proof that he had raided his village and killed his friend years ago
+- The horde of barbarians formed a ring and pushed Grund and Aired, unarmed and unarmored, into the arena for a duel for their honor
+- Grund used his rage to take many hits and unleash devastating punches, but his sloppy style proved no match for Aired's deft maneuvering and Flurry of Blows, which knocked Grund unconscious
+- Aired was given the chance to decide Grund's fate, and when Grund showed no remorse he sent the orc clan away, denying them entry to the horde
+- The last trial was the Trial of Pain, and each member of the party who took part in the Kruthik extermination was to use their recovered spines to inscribe magical tattoos on their body without passing out from pain
+- Aired was the first to succeed using his fey ancestry, joining the horde and swearing the oath as well as his oath to **grant freedom from bondage**
+- Cock followed on his second try, swearing the oath in Ogdin's exact voice and swearing to **seek truth in tradition**
+- Wrenn was the final member to join on their second attempt, swearing to **protect the weak**
+- Each of their new tattoos granted special magical power in different ways depending on their sworn oath, and the horde closed in to welcome them with a night of drinking and revelry
 ### Session 12
 *Greenwake 45-Seedtime 1*
 - [[People/Player Characters/Aired Helelar\|Aired Helelar]] came to consciousness in the Kruthik tunnels while being carried by [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]] and noticed that his earring was actually the elven ring owned by his friend before she died in an orc raid

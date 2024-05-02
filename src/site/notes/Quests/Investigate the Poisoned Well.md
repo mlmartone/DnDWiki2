@@ -15,3 +15,5 @@
 *Seedtime 1*: [[People/Grey Hawk Citizens/Brother Collamir\|Brother Collamir]] said that Foke was cursed by the Sea Hag, but when he removed the curse he turned into a Sea Spawn.  
 
 The party tracked down the Sea Hag's to her lair in a grotto at the bottom of the lake, there she admitted to poisoning the water with a concoction from her cauldron.  The poison makes it so that the affected act as shields for her, absorbing her damage.  The party shattered her cauldron, preventing her from making more of the poison.  
+
+The party killed the hag and broke the curse on those poisoned by the well water.  It should dissipate in a few days.  

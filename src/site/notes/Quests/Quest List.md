@@ -12,7 +12,7 @@
 [[Quests/Archived/Graverobbing Herself\|Graverobbing Herself]] (No Longer Available)
 [[Quests/Bump in the Night\|Bump in the Night]]
 [[Quests/Missing Bitts (and Zuri)\|Missing Bitts (and Zuri)]]
-[[Quests/For the Horde!\|For the Horde!]]
+[[Quests/For the Horde!\|For the Horde!]] (Complete!)
 [[Quests/Sealed in the Lab\|Sealed in the Lab]]
 [[Quests/Track Down the Astral Orb\|Track Down the Astral Orb]]
 ### Ongoing Quests

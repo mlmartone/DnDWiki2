@@ -7,3 +7,5 @@
 *Seedtime 1*: The party found the two missing children in the Sea Hag's lair in the grotto below the lake.  
 
 The children were returned to their homes safely, the 10GP reward was paid but not the 500GP reward.  
+
+*Seedtime 2*: It seems that [[People/Grey Hawk Citizens/Goop\|Goop]] stole the 500GP reward because [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]] lost it.  

@@ -13,6 +13,28 @@
 ---
 ## Session Notes
 [[Quests/Quest List\|Quest List]]
+### Session 14
+*Seedtime 1-2*
+- After the initiation ceremony into [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]], the party joined in the libations and festivities that went late into the evening, all making their way home throughout the night
+- Long Rest
+- [[People/Other Adventurers/Pointy\|Pointy]] was antsy in the morning, and communicated to [[People/Player Characters/Nira\|Nira]] and [[People/Player Characters/Rip\|Rip]] that he wanted to go to a glade in [[Places/The High Forest\|The High Forest]]
+- Party went to see [[People/Grey Hawk Citizens/Dutch 'The Boozer King' Ottenbrau\|Dutch 'The Boozer King' Ottenbrau]], but his house seemed like he hadn't been home in days
+- Talking to his neighbor [[People/Grey Hawk Citizens/Yarr Xibloes\|Yarr Xibloes]], Nira offered an apprenticeship on the sheep ranch to his daughter [[People/Grey Hawk Citizens/Zuri Xibloes\|Zuri Xibloes]]
+- The party gathered some well water to analyze, Aired drank some
+- Stopped by [[Places/Tam's Forge and Blacksmith Shop\|Tam's Forge and Blacksmith Shop]] to pick up some shiny "treasures" for [[People/Grey Hawk Citizens/Goop\|Goop]]
+- Went to the [[Places/Reeve's Manor\|Reeve's Manor]] to collect the bounty for [[People/Grey Hawk Citizens/Bitts Goldcrest\|Bitts Goldcrest]], but [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]] seemed to have lost it, there was evidence that Goop may have taken it
+- At [[Places/The Bursting Barrel\|The Bursting Barrel]] they saw blood leading from the kitchen to Dutch who was unconscious, [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] revived him and he explained how he had been shot with a phantom bolt last night
+- They told him they suspected [[People/Grey Hawk Citizens/Gerthwin Bartelby\|Gerthwin Bartelby]] was dead from the shapeshifter and he felt guilty for letting it happen, but told them to notify her next of kin in the city of Yartar
+- In the stable [[People/Grey Hawk Citizens/Clarence\|Clarence]] showed no signs of intelligence beyond that of a normal horse
+- Went to [[Places/Geshtai's Chapel\|Geshtai's Chapel]], ran into [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]] who gave them two freshly brewed potions of *Darkvision* and collected the well water sample to test
+- Talked to [[People/Grey Hawk Citizens/Brother Collamir\|Brother Collamir]] who mentioned a spring in the High Forest that is said to help animals grow large, and he gave rough directions to get there as the party set out following Pointy
+- Came to a cliff and saw something flying overhead carrying a squealing pig, two halflings burst out chasing after it
+- The party sprang into action, attacking what turned out to be a [Manticore](https://www.dndbeyond.com/monsters/16951-manticore) which attacked ruthlessly with tail spikes
+- After sustaining significant damage the Manticore dropped the pig and Rip leapt off the cliff to catch it with *Feather Fall*, but mistimed the jump
+- [[People/Player Characters/Cock\|Cock]] used *Repelling Blast* to help Rip get to the falling pig, where he barely managed to catch the squealing animal and tumble down to the bottom of the cliff
+- Nira finished off the Manticore after it dropped [[People/Player Characters/Aired Helelar\|Aired Helelar]], then the party and halflings repelled down the cliff to harvest the Manticore
+- The halflings introduced themselves as Nikki and Ben, and with some insight the party realized they sell herbal remedies and risky drugs such as **Hero's Wort** and **Tantric Truffles**, which they gave to the party as thanks for saving their pig, Floyd
+- Short rest
 ### Session 13
 *Seedtime 1*
 - The party decided what to do with the Sea Hag they had captured and charmed with *Suggestion*, and split up to cover more ground

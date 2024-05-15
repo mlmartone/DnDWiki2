@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/prologue/"}
 ---
 
-[[Places/The Bursting Barrel\|The Bursting Barrel]] in [[Places/Grey Hawk\|Grey Hawk]] gets robbed by Four Fingered Freddy and the Juice Crew, but is foiled by a ragtag group of upstanding townsfolk.  The bandits are defeated when the group's latent magical abilities awaken.  A group of high-level adventurers in a group called [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]] come to town.  
+[[Places/The Bursting Barrel\|The Bursting Barrel]] in [[Places/Grey Hawk\|Grey Hawk]] gets robbed by Four Fingered Freddy and the Juice Crew, but is foiled by a ragtag group of upstanding townsfolk.  The bandits are defeated when the group's latent magical abilities awaken.  A group of high-level adventurers in a group called [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]] come to town searching for a shapeshifting fugitive who absconded with the Astral Orb.  
 ### Session 0
 *Greenwake 40*
 - Character creation + campaign discussion

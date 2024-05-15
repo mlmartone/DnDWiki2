@@ -9,12 +9,15 @@
 ### Party Quests/Leads
 [[Quests/Investigate the Poisoned Well\|Investigate the Poisoned Well]]
 [[Quests/Clarence's Midnight Trot\|Clarence's Midnight Trot]]
-[[Quests/Archived/Graverobbing Herself\|Graverobbing Herself]] (No Longer Available)
 [[Quests/Bump in the Night\|Bump in the Night]]
 [[Quests/Missing Bitts (and Zuri)\|Missing Bitts (and Zuri)]]
-[[Quests/For the Horde!\|For the Horde!]] (Complete!)
 [[Quests/Sealed in the Lab\|Sealed in the Lab]]
+[[Where is Pointy Pointing\|Where is Pointy Pointing]]
+[[Growth Spurt\|Growth Spurt]]
 [[Quests/Track Down the Astral Orb\|Track Down the Astral Orb]]
 ### Ongoing Quests
 [[Quests/Fluids of Inconceivable Peculiarity\|Fluids of Inconceivable Peculiarity]]
 [[Quests/Goop's Treasures\|Goop's Treasures]]
+### Archived Quests
+[[Quests/Archived/Graverobbing Herself\|Graverobbing Herself]] (No Longer Available)
+[[Quests/For the Horde!\|For the Horde!]] (Complete!)

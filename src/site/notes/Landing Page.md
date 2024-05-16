@@ -5,7 +5,7 @@
 Welcome to the Wiki for Thursday Night D&D!  Navigate with links in the pages or the sidebar.  I'll do my best to keep this up to date as you meet new characters and progress in your adventure.  Also you need to figure out a team name at some point.  
 
 **Here are some helpful pages to get started:**
-Session Notes and info on Player Characters: [[Adventure Log\|Adventure Log]]
+Session Notes and info on Player Characters: [[Session Notes/Adventure Log\|Adventure Log]]
 
 General World Info: [[Places/Faerun\|Faerun]]
 

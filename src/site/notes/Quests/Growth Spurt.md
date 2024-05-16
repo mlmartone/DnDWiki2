@@ -8,4 +8,4 @@
 
 The party found the spring, cleared out the goblins, and Nira drank the source water.  The spring guardian has asked for the party to send someone who can re-consecrate the grove.  
 
-![[NymphFountain_-_Printable.pdf]]
+![Pasted image 20240516022146.png](/img/user/Z_Attachments/Pasted%20image%2020240516022146.png)

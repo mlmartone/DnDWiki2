@@ -12,8 +12,8 @@
 [[Quests/Bump in the Night\|Bump in the Night]]
 [[Quests/Missing Bitts (and Zuri)\|Missing Bitts (and Zuri)]]
 [[Quests/Sealed in the Lab\|Sealed in the Lab]]
-[[Where is Pointy Pointing\|Where is Pointy Pointing]]
-[[Growth Spurt\|Growth Spurt]]
+[[Quests/Where is Pointy Pointing\|Where is Pointy Pointing]]
+[[Quests/Growth Spurt\|Growth Spurt]]
 [[Quests/Track Down the Astral Orb\|Track Down the Astral Orb]]
 ### Ongoing Quests
 [[Quests/Fluids of Inconceivable Peculiarity\|Fluids of Inconceivable Peculiarity]]

@@ -12,7 +12,6 @@
 [[Quests/Bump in the Night\|Bump in the Night]]
 [[Quests/Missing Bitts (and Zuri)\|Missing Bitts (and Zuri)]]
 [[Quests/Sealed in the Lab\|Sealed in the Lab]]
-[[Quests/Where is Pointy Pointing\|Where is Pointy Pointing]]
 [[Quests/Growth Spurt\|Growth Spurt]]
 [[Quests/Track Down the Astral Orb\|Track Down the Astral Orb]]
 ### Ongoing Quests
@@ -20,4 +19,5 @@
 [[Quests/Goop's Treasures\|Goop's Treasures]]
 ### Archived Quests
 [[Quests/Archived/Graverobbing Herself\|Graverobbing Herself]] (No Longer Available)
-[[Quests/For the Horde!\|For the Horde!]] (Complete!)
+[[Quests/Archived/For the Horde!\|For the Horde!]] (Complete!)
+[[Quests/Archived/Where is Pointy Pointing\|Where is Pointy Pointing]] (Complete!)

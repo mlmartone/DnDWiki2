@@ -17,6 +17,30 @@
 [[Session Notes/Prologue\|Prologue]]: Robbery at the Bursting Barrel
 [[Session Notes/Chapter 1\|Chapter 1]]: Small Town Troubles
 [[Session Notes/Chapter 2\|Chapter 2]]: The Horde Comes to Town
+### Session 16
+*Seedtime 2-3*
+- [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]], who had stayed in town while the party went into [[Places/The High Forest\|The High Forest]], worked with [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]] to learn how to brew elixirs with his **alchemist's kit**, practicing by making a questionable *Darkvision* potion
+- Was stopped by some of [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]]'s paladins on his way out of [[Places/Grey Hawk\|Grey Hawk]], they said the town was on lockdown after they were attacked by the suspected shapeshifter
+- He duped them and moved on, tracking the group to the spring where they were deciding what to do with the captive goblins, [[People/Adversaries/Flea-bite\|Flea-bite]] and Scruffy-mug
+- The party cleaned up the spring, tied up the goblins, and [[People/Player Characters/Nira\|Nira]] befriended the dog they met during the fight in the goblin camp
+- Long Rest
+- Feannag used the captive goblins to disarm the rest of the traps in camp and guide them through the woods, but the goblins refused to follow [[People/Other Adventurers/Pointy\|Pointy]] northward, citing disintegrations by the "beam-burner"
+- Feannag considered killing them but turned the goblins loose with a warning
+- Approached a glade on a hilltop with and idyllic stream, pond, a circle of standing stones, and a cottage with smoke coming out of the chimney
+- [Pseudodragons](https://www.dndbeyond.com/monsters/16986-pseudodragon) of all colors were sunning themselves on rocks and around the cabin
+- A waterwheel by the cabin seemed to be powering a multitude of contraptions that did various chores, created a pleasant breeze, and generally made life easy for an old bald gnome who worked in an extensive but primitively-appointed outdoor workshop
+- Without looking up from their work they introduced themselves as [[People/Other Adventurers/Tild\|Tild]] and familiarly greeted Pointy as "Ishtar," which [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] recognized as "Nightshade" in gnomish
+- Tild referred to the pseudodragons as children and seemed friendly with all of them, including a red one who would occasionally breathe fire to keep his forge lit
+- Wrenn noticed the pseudodragon tail lazily hanging over the bellows as the symbol of *Nebelun*, the gnomish god of the forge, and their chosen deity as a cleric
+- Tild asked Pointy why he was back so soon, what happened to his last companion as they were fond of L'Arsene, and admonished Pointy for being too eager to go adventuring with strangers
+- Pointy seemed to want to bond a new companion, [[People/Player Characters/Rip\|Rip]] persuaded him to bond
+- The workshop and contraptions were impressively complex and Wrenn was impressed by the craftsmanship, prompting Tild to explain how they hone ancient pre-metal techniques and crafting and how they had spent hundreds of years worshiping by making an incredibly intricate ingot of mysterious layered metal from scratch
+- Tild informed the party that they have magical wards around the glade that prevent evil creatures from entering, but in order to weave the spell to bond Pointy they would have to loosen the wards and evil would be attracted
+- Using raw materials the party built traps and fortifications around the runes in the standing stones
+- Tild appeared with a complex combination musical instrument that created magical tunes that worked Pointy into a dancing frenzy as the bond was formed
+- The party defended Pointy during the ritual using their combat prowess as well as the pre-built fortifications against [Cockatrices](https://www.dndbeyond.com/monsters/16828-cockatrice), [Worgs](https://www.dndbeyond.com/monsters/17063-worg), and a [Peryton](https://www.aidedd.org/dnd/monstres.php?vo=peryton)
+- Rip used a large pearl to bond Pointy, allowing him to retreat to the pearl when hurt and Rip to summon him once per day
+- Tild congratulated them, then offered to teach them about enchanting, helping Wrenn infuse the hag psyche into their shield to give it incredible magical properties
 ### Session 15
 *Seedtime 2*
 - The party continued through [[Places/The High Forest\|The High Forest]] looking for the spring to restore [[People/Player Characters/Nira\|Nira]] to her normal size

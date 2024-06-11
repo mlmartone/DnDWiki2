@@ -9,3 +9,4 @@ Shambling Mound Sap -> potion of lightning resistance
 Orange Grung Poison -> various poisons
 Boogle Oil -> oil of slipperiness
 Kruthik Saliva -> potions of darkvision
+Manticore Blood -> ???

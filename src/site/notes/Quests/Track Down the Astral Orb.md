@@ -13,3 +13,5 @@ Help [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]] 
 *Greenwake 45*: [[People/Other Adventurers/Ogdin's Horde/Sigbjorn Hagisson\|Sigbjorn Hagisson]] was last seen causing a cave-in in the tunnels using a powerful psionic blast.  This surely could only mean that he is the dreaded shapeshifter.  
 
 Alduin has set a bounty of 5000GP for the return of the fugitive and the Astral Orb.  Ogdin's Horde has taken on the contract for the bounty, believing the shapeshifter may be in their midst.  
+
+*Seedtime 4*: The party noticed the *Amulet of Clarity* glowing in the presence of Ogdin's Horde, and after a brief fight they were able to reveal the shapeshifting fugitive, revert it to it's worm-like alien form, and capture it for Alduin to question.  The Astral Orb is still at large.  

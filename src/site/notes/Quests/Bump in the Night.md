@@ -11,3 +11,5 @@ After a stakeout the party found that the culprit was the reanimated body of Iwa
 She was at peace after she was able to tell her daughter to go see the clerics at the chapel for help.  
 
 *Greenwake 43*: The clerics believe her pregnancy has been hijacked by some sort of powerful fey.  
+
+*Seedtime 4*: Iwana's condition has worsened.  Since the hag died she has become visibly pregnant and silvery-blue veins cover her body.  She only sleeps fitfully and [[People/Grey Hawk Citizens/Sister Tasarda\|Sister Tasarda]] is worried that this is beyond her skill to heal.  

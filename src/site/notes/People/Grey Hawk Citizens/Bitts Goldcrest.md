@@ -6,6 +6,8 @@ Bitts is a 9 year old human girl that lives in the fishing village of [[Places/G
 
 On the morning of Greenwake 44 she was reported missing and a reward of 500GP has been offered by her family for her safe return.  
 
+She has been returned safely to her family.  
+
 ![Pasted image 20240314003340.jpg](/img/user/Z_Attachments/Pasted%20image%2020240314003340.jpg)
 
 ![Grey Hawk Blank (11).jpg](/img/user/Z_Attachments/Grey%20Hawk%20Blank%20(11).jpg)

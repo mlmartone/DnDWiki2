@@ -9,3 +9,5 @@
 The children were returned to their homes safely, the 10GP reward was paid but not the 500GP reward.  
 
 *Seedtime 2*: It seems that [[People/Grey Hawk Citizens/Goop\|Goop]] stole the 500GP reward because [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]] lost it.  
+
+*Seedtime 4*: Bailey has been put in the stockade as punishment for losing the reward money.  It was no small amount and he is likely to be permanently disgraced by this.  

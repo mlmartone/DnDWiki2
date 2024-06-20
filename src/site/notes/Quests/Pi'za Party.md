@@ -8,4 +8,6 @@
 
 *Greenwake 45*: A mysterious man who claimed to have designed a similar weapon attacked the party, and when he died Pi'za was able to absorb his weapon to gain power.  
 
+*Seedtime 4*: A Drow Wizard and his Fluxcharger golem crash landed in [[Places/Grey Hawk\|Grey Hawk]] with clear orders to eliminate Cock written out.  The golem bore cannons that seemed similar to Pi'za, and the gun was eager to consume their essence as well as the golem's core.  
+
 ![Pasted image 20240305012902.png](/img/user/Z_Attachments/Pasted%20image%2020240305012902.png)

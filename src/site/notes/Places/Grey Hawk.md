@@ -44,6 +44,7 @@ The Grey Hawk Bridge lies along [[Places/The Wanderer's Path\|The Wanderer's Pat
 [[People/Grey Hawk Citizens/Goop\|Goop]]
 [[People/Grey Hawk Citizens/Bitts Goldcrest\|Bitts Goldcrest]]
 [[People/Grey Hawk Citizens/Zuri Xibloes\|Zuri Xibloes]]
+[[People/Grey Hawk Citizens/Greta Goldcrest\|Greta Goldcrest]]
 [[People/Grey Hawk Citizens/Town Guard Roster\|Town Guard Roster]]
 ### Notable Events
 | Event | Date | Notes |

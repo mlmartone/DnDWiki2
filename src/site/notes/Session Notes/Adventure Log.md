@@ -19,6 +19,23 @@
 [[Session Notes/Chapter 2\|Chapter 2]]: The Horde Arrives
 [[Session Notes/Chapter 3\|Chapter 3]]: Hidden Foes Revealed
 
+### Session 19
+*Seedtime 4-5*
+- [[People/Player Characters/Aired Helelar\|Aired Helelar]] helped [[People/Grey Hawk Citizens/Dutch 'The Boozer King' Ottenbrau\|Dutch 'The Boozer King' Ottenbrau]] out at [[Places/The Bursting Barrel\|The Bursting Barrel]], but it was starting to run out of beer and food without [[People/Grey Hawk Citizens/Gerthwin Bartelby\|Gerthwin Bartelby]] looking after the books
+- After [[People/Player Characters/Rip\|Rip]] collected the dead wizard's spellbook, the party went back to town and met up with Aired and went to the fishing village
+- The guards at the docks pointed them to the customs house where [[People/Grey Hawk Citizens/Greta Goldcrest\|Greta Goldcrest]] was able to help Aired sort out Gerthwin's shipping orders to get food and ale back into the tavern
+- She was sympathetic to the party and apologized for her sister's outburst, her daughter [[People/Grey Hawk Citizens/Bitts Goldcrest\|Bitts Goldcrest]] was interested in apprenticing with Nira
+- Talked to [[People/Grey Hawk Citizens/Yarr Xibloes\|Yarr Xibloes]] who also was sympathetic to [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]]'s call for town unity without the limits imposed by the Reeve, gave them a fish to serve at the tavern tonight
+- Back at The Bursting Barrel they tried to decipher Gerthwin's ledgers but they were too cryptic and disorganized, they then followed up with [[People/Grey Hawk Citizens/Nora Gremble\|Nora Gremble]] who said she would be re-shoeing the Reeve's horse tonight
+- Out behind the tavern they summoned [[People/Grey Hawk Citizens/Goop\|Goop]] with some shiny trinkets, which it traded for an interesting bell that rings 10 seconds after it was rung
+- Goop was happy to hear that [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]] was in trouble and that [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]] was upset, but didn't seem too sure about the hag being truly gone, and wanted nothing to do with her magic items
+- It seemed to be interested in the Reeve's "shiny book treasure" which it couldn't steal because its magic didn't work on the upper floors of the [[Places/Reeve's Manor\|Reeve's Manor]]
+- The party agreed to steal this book for Goop if it would plant the stolen 500GP where Greta might find it
+- Before carrying out the heist on the manor they cased the joint and regrouped
+- Long Rest
+- In the morning Rip went to deliver the mail and spoke to Ginia, the Reeve's haughty servant, but wasn't able to get a read on their schedule
+- Aired went stealthing around the guard's quarters and overheard [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] questioning the shapeshifter
+- The Reeve left her house to go have a meeting with Alduin, and the party kicked off their heist plans
 ### Session 18
 *Seedtime 4*
 - Started out in the aftermath of the fight to capture the shapeshifter
@@ -38,3 +55,4 @@
 - Cock, wanting to power up his weapon tried to shoot the corpse, but though Pi'za seemed amused by the grizzly gesture nothing happened
 - At that moment a gigantic lightning-fueled golem appeared and began ruthlessly attacking Cock (and when he hid it targeted [[People/Player Characters/Rip\|Rip]]) with its dual arm cannons
 - The party managed to defeat the [Fluxcharger](https://5e.tools/bestiary/fluxcharger-ggr.html) with a few key critical hits and weathered its lightning-storm death throes, then collected its *Lightning Core* and *Primordial Dust*, which Pi'za seemed eager to consume
+- Short Rest

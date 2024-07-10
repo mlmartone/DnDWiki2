@@ -13,3 +13,5 @@ The children were returned to their homes safely, the 10GP reward was paid but n
 *Seedtime 4*: Bailey has been put in the stockade as punishment for losing the reward money.  It was no small amount and he is likely to be permanently disgraced by this.  
 
 [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]] didn't have the cash to cover the reward so she offered a horse or jewelry in exchange, which the party unsuccessfully tried to haggle over, leading the Reeve to throw 15GP at them and call it even for their insolence.  
+
+*Seedtime 5:* Deciding the Reeve to be untrustworthy, the party decided to break into the [[Places/Reeve's Manor\|Reeve's Manor]] and steal the ledger at the center of her fortune.  They managed to do so and also captured a Djinni who is loyal to the Reeve.  They plan to use the book to barter for the 500GP reward from Goop.  

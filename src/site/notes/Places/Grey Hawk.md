@@ -46,9 +46,15 @@ The Grey Hawk Bridge lies along [[Places/The Wanderer's Path\|The Wanderer's Pat
 [[People/Grey Hawk Citizens/Zuri Xibloes\|Zuri Xibloes]]
 [[People/Grey Hawk Citizens/Greta Goldcrest\|Greta Goldcrest]]
 [[People/Grey Hawk Citizens/Town Guard Roster\|Town Guard Roster]]
+[[People/Grey Hawk Citizens/Lambert Portier\|Lambert Portier]]
 ### Notable Events
-| Event | Date | Notes |
-| ---- | ---- | ---- |
-| Tavern Robbery | Greenwake 40 | Some thugs from 'The Juice Crew' held up [[Places/The Bursting Barrel\|The Bursting Barrel]] for pocket cash and were beaten back by a fledgling adventuring party. |
-| Arrival of Orbital Strike | Greenwake 40 | A group of high-level adventurers that call themselves [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]] has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them. |
-| Murder of Reka Rearguard | Greenwake 42 | Reka was found dead outside of Simon and Iwana's house.   |
+| Event                              | Date         | Notes                                                                                                                                                                                                     |
+| ---------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tavern Robbery                     | Greenwake 40 | Some thugs from 'The Juice Crew' held up [[Places/The Bursting Barrel\|The Bursting Barrel]] for pocket cash and were beaten back by a fledgling adventuring party.                                                                   |
+| Arrival of Orbital Strike          | Greenwake 40 | A group of high-level adventurers that call themselves [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]] has arrived seeking a lost artifact and warning the town that a shapechanger thief could be hiding among them.                  |
+| Murder of Reka Rearguard           | Greenwake 42 | Reka was found dead outside of Simon and Iwana's house.                                                                                                                                                   |
+| Arrival of Ogdin's Horde           | Greenwake 43 | A group of barbarians known as [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]] have set up camp on the west side of town.  They come through twice a year for some sort of initiation ritual, and are a rowdy but otherwise good bunch. |
+| Disappearance of Gerthwin Bartelby | Greenwake 45 | The local innkeep has gone missing, some suspect the horde.                                                                                                                                               |
+| Death of the Sea Hag               | Seedtime 1   | A sea hag has been poisoning the well of the fishermen of Grey Hawk.  She was finally dealt with and her captives returned.                                                                               |
+| Capture of the Shapeshifter        | Seedtime 4   | The fugitive sought by Orbital Strike has been captured by a joint effort from the paladins, the horde, and some concerned citizens.                                                                      |
+| Reeve's Manor Heist                | Seedtime 5   | Someone broke into the Reeve's Manor and stole some precious items.  This happened while she was out in the town square losing her control of the townsfolk after anger boiled over.                      |

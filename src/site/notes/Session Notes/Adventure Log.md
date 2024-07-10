@@ -19,6 +19,31 @@
 [[Session Notes/Chapter 2\|Chapter 2]]: The Horde Arrives
 [[Session Notes/Chapter 3\|Chapter 3]]: Hidden Foes Revealed
 
+### Session 20
+*Seedtime 5*
+- The party snuck up to the [[Places/Reeve's Manor\|Reeve's Manor]] while [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]] was out meeting with [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]]
+- Inside they saw the Reeve's reclusive husband, [[People/Grey Hawk Citizens/Lambert Portier\|Lambert Portier]] drinking heavily
+- [[People/Player Characters/Nira\|Nira]] used *Alter Self* to take on the appearance of the Reeve, [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] used *Disguise Self* to look like [[People/Grey Hawk Citizens/Bitts Goldcrest\|Bitts Goldcrest]], an after [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] picked the lock they walked right in the front door
+- Nira was able to fool the servants with her disguise, sending them on errands to get them out of the way while Wrenn got the window open to let the rest of the party sneak in and get upstairs
+- While digging around in other rooms Wrenn came across another servant as well as a glyph protecting the room of the Reeve's son
+- In the Reeve's bedroom the party investigated for clues, [[People/Player Characters/Rip\|Rip]] used *Detect Magic* to find some potions of sleep, some enchanted prayer beads, and eventually came across a key to the study where the book was waiting
+- The party used the key to get into the study, but found that all magic was suppressed in the room, their spells, disguises, and magic items ceased to function
+- In the study [[People/Player Characters/Cock\|Cock]] suddenly was overwhelmed with memories as the fog in his mind cleared, seeing visions of his past and recalling his real name
+- Lambert drunkenly stumbled up the stairs and right into the bedroom where Nira was waiting disguised as the Reeve
+- She tried to put him to sleep but he was suspicious and a bit belligerent, he then tried to get her to dance, which he was very skilled at though Nira had never done royal ballroom dances before
+- He pulled her downstairs and had the servants start playing music as they attempted to dance
+- The rest of the party used the opportunity to search the study, finding the drawer and ledger within, which Cock swapped with a book of similar weight to avoid setting off a trap mechanism
+- When he took the book an opal ring fell to the ground, and when he touched it a Djinni appeared
+- When the group couldn't produce evidence that they were members of the Reeve's family it attacked, saying that it was bound to protect the home of its master
+- Seeing the fight break out and with the knowledge that the book was in hand Wrenn cast *Silence* to cover the noise while Feannag began to escape, using a ladder he had stashed along the balcony last night to make a getaway
+- The Djinni was attacking viscously, but Cock managed to get the ring into the *Bag of Colding*, though it didn't function inside the antimagic field and he was caught in a whirlwind it had summoned
+- Together Cock, Rip, Aired, and Wrenn managed to get the bag out of the room, which sucked the Djinni into the pocket dimension once the enchantment functioned again, but not before it downed Cock
+- Meanwhile Nira used *Prestidigitation* to escape the advances of Lambert, walking out the front door along in disguise
+- Feannag had made it to the street by this point and saw the real Reeve returning, so he made a scene of calling her out for stiffing them on their reward in front of the whole town, unjustly locking [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]] up, and for acting rude and like she was better than the rest of the town
+- He, with Rip's help, managed to whip up a small mob and force her to retreat with her guards back to the manor
+- Back in the study Cock and Wrenn cleaned up the evidence and made a complete mess of the room before fleeing
+- Each party member found their own way out of the heist, Nira through disguise as [[People/Grey Hawk Citizens/Nora Gremble\|Nora Gremble]], Aired through drunken tomfoolery with the real Nora's aid, Cock through *Invisibility*, Feannag through stealth, Wrenn through disguise as Bitts, and Rip by pretending to be delivering the mail
+- Out on the street the mob had begun to rouse, and [[People/Grey Hawk Citizens/Simon Sais\|Simon Sais]] broke his brother-in-law Bailey out of the stocks as the party regrouped and Aired dropped the stolen key in the river
 ### Session 19
 *Seedtime 4-5*
 - [[People/Player Characters/Aired Helelar\|Aired Helelar]] helped [[People/Grey Hawk Citizens/Dutch 'The Boozer King' Ottenbrau\|Dutch 'The Boozer King' Ottenbrau]] out at [[Places/The Bursting Barrel\|The Bursting Barrel]], but it was starting to run out of beer and food without [[People/Grey Hawk Citizens/Gerthwin Bartelby\|Gerthwin Bartelby]] looking after the books

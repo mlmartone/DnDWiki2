@@ -19,6 +19,50 @@
 [[Session Notes/Chapter 2\|Chapter 2]]: The Horde Arrives
 [[Session Notes/Chapter 3\|Chapter 3]]: Hidden Foes Revealed
 
+### Session 21
+*Seedtime 5*
+- Outside the [[Places/Reeve's Manor\|Reeve's Manor]] a mob was starting to form, whipped up by [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]]'s comments to [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]]
+- Feannag tried to calm things down before they got too out of hand but failed to persuade them
+- Meanwhile [[People/Player Characters/Aired Helelar\|Aired Helelar]] went with [[People/Grey Hawk Citizens/Nora Gremble\|Nora Gremble]] to the stables where they found a bloody injured [[People/Grey Hawk Citizens/Clarence\|Clarence]]
+- Aired ran to get the rest of the group and on the way back they ran into [[People/Grey Hawk Citizens/Goop\|Goop]], who asked for the book they stole, they were able to skim it to see business ledgers and bank accounts but Goop began destroying it before they could extract useful information
+- In return Goop gave them a magic hat and disappeared to plant the 500GP it stole in the [[Places/Crescent's Rest\|Crescent's Rest]]
+- Meanwhile they heard an angry shriek from the Reeve's Manor, likely indicating the Reeve had found the evidence of the robbery
+- [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] healed Clarence and calmed Nora down, and they investigated the wounds and saw claw and tooth marks and a bloody trail leading back into [[Places/The High Forest\|The High Forest]]
+- Short Rest
+- In [[Places/The Bursting Barrel\|The Bursting Barrel]] they talked to [[People/Other Adventurers/Ogdin's Horde/Gudbrand the Elder\|Gudbrand the Elder]] who was mad at [[People/Other Adventurers/Ogdin's Horde/Ogdin The Anvil\|Ogdin The Anvil]] for pushing him aside in favor of Harie, who turned out to be the shapeshifter in disguise
+- Nora got arrested by the guards for being present at the Reeve's manor at the time of the heist and the party let the guards take her away as they headed off into the forest to find out what happened to Clarence
+- Along the way found a wolf fang with a silver filling in the blood trail, remembered that [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]]'s crew of orc druids had some silver teeth between them
+- They tracked the blood to the Beastlands portal and staked it out for a few hours before giving up and going back to town, finding some invisiberries on the way
+- Near town they could smell smoke and hear alarm bells and ran in to see the guard's quarter's ablaze, townsfolk were rushing to the river to bring buckets to douse the flames
+- They noticed the only one walking nonchalantly away from the fire was [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]], and when they confronted him he seemed to indicate that he was mad that his sister had been arrested
+- Aired and Feannag coated themselves in flame retardant and ran into the burning building, inside they saw no sign of the shapeshifter other than empty chains and the body of one of the paladin guards, which Feannag recovered
+- Aired stumbled across [[People/Other Adventurers/Orbital Strike/Void\|Void]] who was wracked with visions and was crying out "They are coming" as they crawled through the flames, Aired was able to drag them out the front of the building
+- [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] burst through a wall with the final survivors on his back, causing the burning wing of the building to finally collapse
+- Outside they could see that Void's black clothing was in tatters and his mask was gone, revealing jet black skin, pointy elven ears, black eyes with pupils like stars, and silvery hair that seemed untouched by the flames
+- They left Alduin to heal the survivors, but confirmed that the shapeshifter was missing along with the body of one of Alduin's paladin captains
+- They headed over to the anti-flight wards and Feannag put on the charm to get some information and help from [[People/Other Adventurers/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]]
+- They then went back to the Bursting Barrel and helped Gudbrand and Ogdin reconcile, though Ogdin couldn't remember large chunks of the last few days
+- Gudbrand mentioned something about Ogdin burying something and they raced off to the [[Places/Graveyard\|Graveyard]] to investigate
+- With Ogdin's help they dug up a grave and found the orb sitting there in a busted open casket
+- Swirling star patterns danced across the surface and the party were able to resist its pull, though Ogdin was entranced by it and seemed bewitched before collapsing
+- [[People/Player Characters/Nira\|Nira]] teleported him away from the orb but it didn't seem to help so Feannag and Aired dashed off to get help from Gabriella and Alduin
+- Gabriella started tending to Ogdin with a complex ritual spell while Alduin set to collecting the orb in some sort of special bag
+- Suddenly gravity shifted again, waves emanating out from the wards by the falls that made everyone briefly float in the air before slamming back down to the ground
+- The party ran over to check the wards and there they saw the missing paladin captain with his sword jammed through the carved runes, looking satisfied with a smug smile on his face
+- He introduced himself as Serax-Dral, and thanked the party for making the last few weeks fun for him as he killed and infiltrated his way through [[Places/Grey Hawk\|Grey Hawk]], [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]], and finally Alduin's Paladins
+- He said that they were too late and as much as he would love to taste each of their flesh individually, he had a ship to catch, gesturing upward as three massive flying ships came into view, alongside three gargantuan worms undulating through the air
+- Serax-Dral said he would even give them all a free shot to show them how insignificant they truly were, and the party leapt into action
+- The party dealt several heavy hits and soon he was coughing up blood, cursing the weakness of his human form before reversing gravity to send all of them up onto the ship hovering overhead
+- Onboard they saw two more wormlike aliens like the shifter's true form along with a host of armed insectoid aliens, and a fight broke out
+- Meanwhile the worms descended upon the town, crushing buildings and attacking the largest population centers: The Bursting Barrel, The Fishing Village, and Nira's Ranch
+- Alduin appeared flying on a winged steed and asked them which to save first, and the party sent him off to the fishing village while Ogdin, cured from his stupor and using it to fuel his rage took on the worm that attacked the Bursting Barrel
+- The party began fighting through the alien ranks until [[People/Player Characters/Cock\|Cock]] blasted one of the aliens off the ship, leaving the help unpiloted and sending most of the party overboard while the ship began an uncontrolled descent
+- [[People/Player Characters/Rip\|Rip]] used *Feather Fall* to stop the plummeting party and Serax-Dral summoned a worm to catch him midair
+- Cock and Aired managed to stay onboard and dispatched the remaining aliens and tried to physically control the falling ship by pulling on the wings, sending it towards the worm attacking Nira's sheep
+- Wrenn and Nira managed to get the helm working and steered the ship into the worm, closing the jaws to take a huge chunk out of the gigantic worm's side
+- Feannag took a parting shot at Serax-Dral, knocking him off the worm and watching him plummet down to the ground
+- The ship careened into the worm and the whole party tumbled off the vessel and scattered onto the ground amidst the terrified herd of sheep
+- Looking upward they saw the other two ships beginning to close in on Grey Hawk
 ### Session 20
 *Seedtime 5*
 - The party snuck up to the [[Places/Reeve's Manor\|Reeve's Manor]] while [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]] was out meeting with [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]]

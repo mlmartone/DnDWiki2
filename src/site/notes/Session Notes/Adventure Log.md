@@ -49,7 +49,7 @@
 - Gabriella started tending to Ogdin with a complex ritual spell while Alduin set to collecting the orb in some sort of special bag
 - Suddenly gravity shifted again, waves emanating out from the wards by the falls that made everyone briefly float in the air before slamming back down to the ground
 - The party ran over to check the wards and there they saw the missing paladin captain with his sword jammed through the carved runes, looking satisfied with a smug smile on his face
-- He introduced himself as Serax-Dral, and thanked the party for making the last few weeks fun for him as he killed and infiltrated his way through [[Places/Grey Hawk\|Grey Hawk]], [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]], and finally Alduin's Paladins
+- He introduced himself as [[People/Adversaries/Serax-Dral\|Serax-Dral]], and thanked the party for making the last few weeks fun for him as he killed and infiltrated his way through [[Places/Grey Hawk\|Grey Hawk]], [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]], and finally Alduin's Paladins
 - He said that they were too late and as much as he would love to taste each of their flesh individually, he had a ship to catch, gesturing upward as three massive flying ships came into view, alongside three gargantuan worms undulating through the air
 - Serax-Dral said he would even give them all a free shot to show them how insignificant they truly were, and the party leapt into action
 - The party dealt several heavy hits and soon he was coughing up blood, cursing the weakness of his human form before reversing gravity to send all of them up onto the ship hovering overhead

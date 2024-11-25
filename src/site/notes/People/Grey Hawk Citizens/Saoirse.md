@@ -6,4 +6,5 @@ Saoirse is a mermaid who has lived in the deep lake at the base of the [[Places/
 
 It turns out that she was a Sea Hag in disguise, and has been dispatched by the party.  
 ![Pasted image 20240211004856.png](/img/user/Z_Attachments/Pasted%20image%2020240211004856.png)
+![Pasted image 20241124230850.png](/img/user/Z_Attachments/Pasted%20image%2020241124230850.png)
 ![Grey Hawk Blank (18).jpg](/img/user/Z_Attachments/Grey%20Hawk%20Blank%20(18).jpg)

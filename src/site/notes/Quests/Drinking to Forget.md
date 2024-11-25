@@ -7,3 +7,5 @@
 *Seedtime 1*: Aired noticed that [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]] had a ring that matched the one taken from his friend when she died protecting the village years ago.  In the final trials of Ogdin's Horde he challenged Grund to a duel and defeated him in single unarmed combat.  Grund was exiled from the horde in disgrace, taking his orcs with him but vowing revenge for this.  
 
 *Seedtime 4*: A few days ago there was an attack and Grund's crew robbed the inn before killing some of [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]]'s paladins and fleeing into [[Places/The High Forest\|The High Forest]].  
+
+Seedtime 5:

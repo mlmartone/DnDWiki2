@@ -7,9 +7,9 @@ Welcome to the Wiki for Thursday Night D&D!  Navigate with links in the pages or
 **Here are some helpful pages to get started:**
 Session Notes and info on Player Characters: [[Session Notes/Adventure Log\|Adventure Log]]
 
-General World Info: [[Places/Faerun\|Faerun]]
+General World Info: [[Places/Faerun/Faerun\|Faerun]]
 
-Starting Village Background: [[Places/Grey Hawk\|Grey Hawk]]
+Starting Village Background: [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]]
 
 Current Objectives: [[Quests/Quest List\|Quest List]]
 

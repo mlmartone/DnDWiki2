@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/player-characters/rip/"}
+{"dg-publish":true,"permalink":"/people/player-characters/rip/","tags":["Character","Faerun","GreyHawk","PC"]}
 ---
 
 Played by: Alexa

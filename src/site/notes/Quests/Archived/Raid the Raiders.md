@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/quests/archived/raid-the-raiders/","tags":["Quest","Beastlands"]}
+---
+
+After their disgraceful exit from [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]], [[People/Other Adventurers/Ogdin's Horde/Grund Razorclaw\|Grund Razorclaw]] and his group of 5 other orcs robbed the [[Places/Faerun/Grey Hawk/Crescent's Rest\|Crescent's Rest]] and fled town.  They couldn't be tracked by [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]]'s paladins, and it turns out they had used the tree portal in [[Places/Faerun/The High Forest\|The High Forest]] to get to [[Places/The Beastlands\|The Beastlands]] where food was plentiful and they wouldn't be bothered by adventurers.  Once in the Hunter's Paradise their druidic powers awakened fully, allowing them to become unstoppable killing machines that left a wake of destruction and death in their path.  Furious with the party for showing Grund the secret entrance and killing the guardian who prevented outsiders from getting in, [[People/Grey Hawk Citizens/Clarence\|Clarence]] told the party to clean up their mess and deal with the orc raiders.  
+
+They have clear-cut a swath of rainforest at the edge of the savannah and used the timber to build a ramshackle fort.  They have been seen sporting various animalistic features and capturing local animals to keep in cages in their fort, which is watched closely.  The party will have to find a way to defeat them or drive them out of the Beastlands so the land can heal.  
+
+*Seedtime 8*: The party gave the orcs a taste of their own medicine when they poisoned some ale and tricked them into getting drunk on the watch.  With the orcs drunk and poisoned the party was able to overpower and defeat them, finally ridding the Beastlands of the scourge.  
+![Grum's Fort.jpg](/img/user/Z_Attachments/Grum's%20Fort.jpg)

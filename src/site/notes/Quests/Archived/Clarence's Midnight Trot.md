@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/quests/archived/clarence-s-midnight-trot/"}
+{"dg-publish":true,"permalink":"/quests/archived/clarence-s-midnight-trot/","tags":["GreyHawk","Quest"]}
 ---
 
 *Greenwake 40*: [[People/Grey Hawk Citizens/Nora Gremble\|Nora Gremble]]'s beloved horse, [[People/Grey Hawk Citizens/Clarence\|Clarence]] recently returned from a midnight trot covered in blood and clear marks of a beast attack.  He usually doesn't venture too far from town so that could be a problem if the next victim isn't so lucky.  
 
 *Greenwake 41*: Also he seemed to magically heal overnight which is strange.  
 
-*Greenwake 42*: Clarence was last seen going into a magical doorway in an ancient oak tree in a clearing in [[Places/The High Forest\|The High Forest]].  
+*Greenwake 42*: Clarence was last seen going into a magical doorway in an ancient oak tree in a clearing in [[Places/Faerun/The High Forest\|The High Forest]].  
 
 The doorway had Druidic runes underneath it.  
 

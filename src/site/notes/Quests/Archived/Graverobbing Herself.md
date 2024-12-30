@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quests/archived/graverobbing-herself/"}
+{"dg-publish":true,"permalink":"/quests/archived/graverobbing-herself/","tags":["GreyHawk","Quest"]}
 ---
 
 *Greenwake 40*: [[People/Grey Hawk Citizens/Reka Rearguard\|Reka Rearguard]] has fallen on hard times.  Her husband was buried with his wedding ring, if she could pawn it the money would help her keep the shop open.  

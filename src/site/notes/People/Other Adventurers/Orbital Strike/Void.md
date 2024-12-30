@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/other-adventurers/orbital-strike/void/"}
+{"dg-publish":true,"permalink":"/people/other-adventurers/orbital-strike/void/","tags":["Character","Ally","Faerun"]}
 ---
 
 

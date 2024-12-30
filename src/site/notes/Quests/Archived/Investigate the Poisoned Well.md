@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quests/archived/investigate-the-poisoned-well/"}
+{"dg-publish":true,"permalink":"/quests/archived/investigate-the-poisoned-well/","tags":["GreyHawk","Quest"]}
 ---
 
 *Greenwake 40*: [[People/Grey Hawk Citizens/Dutch 'The Boozer King' Ottenbrau\|Dutch 'The Boozer King' Ottenbrau]] mentioned the water was giving him headaches

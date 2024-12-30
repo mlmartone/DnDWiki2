@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/people/grey-hawk-citizens/bitts-goldcrest/"}
+{"dg-publish":true,"permalink":"/people/grey-hawk-citizens/bitts-goldcrest/","tags":["Character","Faerun","GreyHawk"]}
 ---
 
-Bitts is a 9 year old human girl that lives in the fishing village of [[Places/Grey Hawk\|Grey Hawk]].  She is a distant relation of [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]], and her family comes from money, with her father overseeing trade coming up the river.  She is friends with [[People/Grey Hawk Citizens/Zuri Xibloes\|Zuri Xibloes]], another girl her age, 
+Bitts is a 9 year old human girl that lives in the fishing village of [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]].  She is a distant relation of [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]], and her family comes from money, with her father overseeing trade coming up the river.  She is friends with [[People/Grey Hawk Citizens/Zuri Xibloes\|Zuri Xibloes]], another girl her age, 
 
 On the morning of Greenwake 44 she was reported missing and a reward of 500GP has been offered by her family for her safe return.  
 

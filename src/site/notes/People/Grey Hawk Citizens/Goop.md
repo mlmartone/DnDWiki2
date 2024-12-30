@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/grey-hawk-citizens/goop/"}
+{"dg-publish":true,"permalink":"/people/grey-hawk-citizens/goop/","tags":["Character","Ally","Faerun","GreyHawk"]}
 ---
 
 Goop is a Boggle, a chaotic evil little fey goblinoid that lives under [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]]'s house and messes with him constantly.  It loves shiny "treasures" and chaotic pranks.  It can excrete sticky or slippery goo through its skin and travel through small dimensional rifts to teleport.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quests/archived/for-the-horde/"}
+{"dg-publish":true,"permalink":"/quests/archived/for-the-horde/","tags":["GreyHawk","Quest"]}
 ---
 
 *Greenwake 45*: The trials to join [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]] of Barbarians have begun!  The first trial is delving into the **Underdark** to clear out a nest of Kruthik.  Return with their spines to prove the deed has been done.  

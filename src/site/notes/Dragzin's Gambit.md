@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dragzin-s-gambit/"}
 ---
 
-A dice game for two players played across [[Places/Faerun\|Faerun]].  
+A dice game for two players played across [[Places/Faerun/Faerun\|Faerun]].  
 1. Ante up: Players agree on a wager
 2. Roll: Both players roll a full set of 7 polyhedral dice (1d4, 1d6, 1d8, 2d10, 1d12, 1d20)
 3. Raise: One or both players may raise the bet (optional) or fold if they don't want to take the raise

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/adventure-log/"}
+{"dg-publish":true,"permalink":"/session-notes/adventure-log/","tags":["CampaignNotes"]}
 ---
 
 ## Party Composition
@@ -19,20 +19,11 @@
 [[Session Notes/Chapter 2\|Chapter 2]]: The Horde Arrives
 [[Session Notes/Chapter 3\|Chapter 3]]: Hidden Foes Revealed
 [[Session Notes/Chapter 4\|Chapter 4]]: The Battle for Grey Hawk
-[[Session Notes/Chapter 5\|Chapter 5]]: Trouble in Wild Paradise
+[[Session Notes/Chapter 5\|Chapter 5]]: Trouble in Paradise
 
-### Session 27
-*Beastlands, unknown date*
+### Session 29
+*Seedtime 9*
 - Stuff
-### Session 26
-*Beastlands, unknown date*
-- Stuff
-### Session 25
-*Beastlands, unknown date*
-- Stuff
-### Session 24
-*Beastlands, unknown date*
-- Stuff
-### Session 23
-*Beastlands, unknown date*
+### Session 30
+*Seedtime 9*
 - Stuff

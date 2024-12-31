@@ -20,7 +20,6 @@
 [[Session Notes/Chapter 3\|Chapter 3]]: Hidden Foes Revealed
 [[Session Notes/Chapter 4\|Chapter 4]]: The Battle for Grey Hawk
 [[Session Notes/Chapter 5\|Chapter 5]]: Trouble in Paradise
-
 ### Session 29
 *Seedtime 9*
 - After resting the party gathered their gear and got ready to leave [[Places/The Beastlands\|The Beastlands]] with [[People/Grey Hawk Citizens/Clarence\|Clarence]]'s blessing

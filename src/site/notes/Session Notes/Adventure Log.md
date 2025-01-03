@@ -74,3 +74,26 @@
 - Gabriella was super excited with academic theories, but thought the party must have attuned to the orb somehow to get this behavior
 - She questioned how they had grown so powerful so quickly over the last few weeks and theorized that the orb was granting them power by proximity
 - Alduin made to arrest them and told them he would need to take them to headquarters to do experiments and observe them, the party was not pleased to hear this
+### Session 31
+*Seedtime 9*
+- Continuing their meeting with [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]], the party tried to convince [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] that they truly didn't know where the orb was, despite the fact that [[People/Player Characters/Cock\|Cock]] had it
+- [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] and [[People/Player Characters/Aired Helelar\|Aired Helelar]] blinked out of existence, deepening his suspicions
+- They mentioned [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]] had been abducted and Alduin sent [[People/Other Adventurers/Orbital Strike/Hubert Mugwort\|Hubert Mugwort]] to go deal with that, they overhead something about a "quarantine"
+- As Alduin continued to get more frustrated he made to arrest the party but Void convinced him to hold off until after the Mindwitness was dealt with
+- [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]] was eavesdropping on the meeting and walked in, clearly wasn't on great terms with Alduin
+- They mentioned [[People/Grey Hawk Citizens/Iwana Sais\|Iwana Sais]]'s baby and Alduin seemed even more flustered but it wasn't his first priority
+- The group went to the ship and Gabriella lowered the wards
+- [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] and Cock took Greg's experimental mind-shielding elixir before they boarded, the entire party along with Gabriella and Perce went along
+- Greg took samples from the Thri-Kreen bodies that were decomposing on the ship
+- Everyone who wasn't mind-shielded heard the mindwitness's voice in their heads asking for its master
+- Cock and [[People/Player Characters/Nira\|Nira]] went to get the helm of the ship from the evidence locker, Nira also gathered some personal effects that had been impounded there
+- Cock suddenly began to recall his previous life, starting with fighting an urge to shoot Alduin and to kill [[Commandant Bradley\|Commandant Bradley]]
+- On the ship Perce got impatient and decided to go in alone to see the Mindwitness despite Nira's successful persuasion
+- After a moment the rest followed, onboard they saw the mess of cargo and a toppled bookshelf, each party member searched through it: [[People/Player Characters/Rip\|Rip]] found some books on Faerun etiquette and Kenku, Cock was drawn to a treatise on the Shadowfell and a book on the royal bloodlines of the Sword Coast, Nira couldn't find any books on dragons or the moon, and [[Wrenn\|Wrenn]] found the manual on the operation of the ship
+- They followed Perce to the room with the Mindwitness where it seemed to accept Gabriella as its new master and they fed it the alien heads while Greg collected its saliva
+- They began to question it, hearing about the "Grand Scheme" and the Nine-Tongued Worm which would be using the Astral Orb as a "conduit" to enter the world
+- It said the Astral Orb had been "imprinted" on by six entities and that they shall be made "perfect" in 3-4 "cycles" which was the highest honor to be chosen by the Worm
+- Wrenn suddenly fell ill from the effects of Greg's experimental elixir, shedding their armor and sprouting an eyestalk over their shoulder that started blasting stunning rays at the party
+- After a moment they vomited up the potion and the eyestack shriveled and fell off, which Greg collected along with the potion to "reuse"
+- Speaking to the Mindwitness it said that "all of our agents on the Kiba System are in place for the Grand Scheme" and that soon the next phase would start
+- It then predicted the arrival of two more imprinted members and said farewell to Wrenn

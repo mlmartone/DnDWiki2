@@ -87,9 +87,9 @@
 - Greg took samples from the Thri-Kreen bodies that were decomposing on the ship
 - Everyone who wasn't mind-shielded heard the mindwitness's voice in their heads asking for its master
 - Cock and [[People/Player Characters/Nira\|Nira]] went to get the helm of the ship from the evidence locker, Nira also gathered some personal effects that had been impounded there
-- Cock suddenly began to recall his previous life, starting with fighting an urge to shoot Alduin and to kill [[Commandant Bradley\|Commandant Bradley]]
+- Cock suddenly began to recall his previous life, starting with fighting an urge to shoot Alduin and to kill [[People/Commandant Bradley\|Commandant Bradley]]
 - On the ship Perce got impatient and decided to go in alone to see the Mindwitness despite Nira's successful persuasion
-- After a moment the rest followed, onboard they saw the mess of cargo and a toppled bookshelf, each party member searched through it: [[People/Player Characters/Rip\|Rip]] found some books on Faerun etiquette and Kenku, Cock was drawn to a treatise on the Shadowfell and a book on the royal bloodlines of the Sword Coast, Nira couldn't find any books on dragons or the moon, and [[Wrenn\|Wrenn]] found the manual on the operation of the ship
+- After a moment the rest followed, onboard they saw the mess of cargo and a toppled bookshelf, each party member searched through it: [[People/Player Characters/Rip\|Rip]] found some books on Faerun etiquette and Kenku, Cock was drawn to a treatise on the Shadowfell and a book on the royal bloodlines of the Sword Coast, Nira couldn't find any books on dragons or the moon, and [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] found the manual on the operation of the ship
 - They followed Perce to the room with the Mindwitness where it seemed to accept Gabriella as its new master and they fed it the alien heads while Greg collected its saliva
 - They began to question it, hearing about the "Grand Scheme" and the Nine-Tongued Worm which would be using the Astral Orb as a "conduit" to enter the world
 - It said the Astral Orb had been "imprinted" on by six entities and that they shall be made "perfect" in 3-4 "cycles" which was the highest honor to be chosen by the Worm

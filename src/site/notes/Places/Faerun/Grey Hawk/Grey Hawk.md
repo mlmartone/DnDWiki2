@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/places/faerun/grey-hawk/grey-hawk/","tags":["Faerun","GreyHawk","Location"]}
 ---
 
-Grey Hawk is a small town in northwestern [[Places/Faerun/Faerun\|Faerun]] that sprang up around a bridge crossing the [[Places/Faerun/Grey Hawk/Dessarin River\|Dessarin River]] just above the falls. The bridge is along [[Places/Faerun/The Wanderer's Path\|The Wanderer's Path]], a quiet route that branches off of the Long Road (a major trading route of the sword coast), and passes between [[Places/Faerun/The High Forest\|The High Forest]] and the Evermoors. The population (approx. 100) is mostly human, with a decent portion of half-elves descended from the high elves of the forest, but the town is no stranger to other races passing though. Everyone knows everyone else in the town, and the peace is rarely disturbed.
+Grey Hawk is a small town in northwestern [[Places/Faerun/Faerun\|Faerun]] that sprang up around a bridge crossing the [[Places/Faerun/Dessarin River\|Dessarin River]] just above the falls. The bridge is along [[Places/Faerun/The Wanderer's Path\|The Wanderer's Path]], a quiet route that branches off of the Long Road (a major trading route of the sword coast), and passes between [[Places/Faerun/The High Forest\|The High Forest]] and the Evermoors. The population (approx. 100) is mostly human, with a decent portion of half-elves descended from the high elves of the forest, but the town is no stranger to other races passing though. Everyone knows everyone else in the town, and the peace is rarely disturbed.
 
 ![Pasted image 20240208004209.png](/img/user/Z_Attachments/Pasted%20image%2020240208004209.png)
 ### Demographics
@@ -10,7 +10,7 @@ Mostly human, significant portion of half-elves, a handful of other races such a
 ### Government
 The Reeve is a hereditary title associated with collecting tolls and upkeeping the bridge, but has grown into something akin to a mayor. A handful of officials such as a guard captain, a magistrate, and a few clerks help to keep the town running but don't get too involved in the inhabitants' business.
 ### Infrastructure
-The Grey Hawk Bridge lies along [[Places/Faerun/The Wanderer's Path\|The Wanderer's Path]] and crosses the [[Places/Faerun/Grey Hawk/Dessarin River\|Dessarin River]]. [[Places/Faerun/The Wanderer's Path\|The Wanderer's Path]] is a lightly trafficked road often travelled by adventurers, merchants, and various caravans moving from inland Faerun to the Sword Coast.
+The Grey Hawk Bridge lies along [[Places/Faerun/The Wanderer's Path\|The Wanderer's Path]] and crosses the [[Places/Faerun/Dessarin River\|Dessarin River]]. [[Places/Faerun/The Wanderer's Path\|The Wanderer's Path]] is a lightly trafficked road often travelled by adventurers, merchants, and various caravans moving from inland Faerun to the Sword Coast.
 ### Points of Interest
 [[Places/Faerun/Grey Hawk/Grey Hawk Falls\|Grey Hawk Falls]]
 [[Places/Faerun/Grey Hawk/Crescent's Rest\|Crescent's Rest]]

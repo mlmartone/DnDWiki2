@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/session-notes/chapter-1/","tags":["CampaignNotes"]}
 ---
 
+### **Small Town Troubles**
 The fledgling adventuring party learns about their new powers and abilities as [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]] begins searching the town for the Astral Orb.  The party looked into a poisoned well, which led them to work with local alchemist [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]] (first by helping him "milk" a Shambling Mound), then they found out there was a mermaid secretly living in the lake who instructed them to go destroy a Grung spawning pool upstream.  Meanwhile the party looked into the strange happenings around Nora's free-roaming horse named [[People/Grey Hawk Citizens/Clarence\|Clarence]], specifically how he seemed to disappear into a tree in [[Places/Faerun/The High Forest\|The High Forest]].  They also tracked down a Boggle named [[People/Grey Hawk Citizens/Goop\|Goop]], who returned their stolen items.  [[People/Grey Hawk Citizens/Reka Rearguard\|Reka Rearguard]] was murdered and the party staked out to find a zombie pounding on [[People/Grey Hawk Citizens/Iwana Sais\|Iwana Sais]]'s door, which they destroyed, revealing a ghost of her mother who said that her daughter was in great danger.  
 ### Session 2
 *Greenwake 41*
@@ -28,7 +29,7 @@ The fledgling adventuring party learns about their new powers and abilities as [
 - For some reason they then threatened Yarr and gaslit him into believing they didn't find a mermaid
 - On their way back through town they saw a crowd around [[People/Grey Hawk Citizens/Simon Sais\|Simon Sais]] and [[People/Grey Hawk Citizens/Iwana Sais\|Iwana Sais]]'s house, upon further inspection they found [[People/Grey Hawk Citizens/Reka Rearguard\|Reka Rearguard]] dead, clearly killed sometime in the middle of the night and found in the morning.  She had blunt trauma and a nasty bite taken out of her side, then she likely bled out.  She had a shovel with her.  
 - Feannag interviewed Simon, he said he heard the banging on his door again and a scream around 3am.  Investigation cut short when town guards arrived and took over.  
-- Trekked into [[Places/Faerun/The High Forest\|The High Forest]] along the [[Places/Faerun/Grey Hawk/Dessarin River\|Dessarin River]] for about 2 hours, found some Grung in the shallows of the river guarding a spawning pool full of tadpoles.  The [Grung](https://www.aidedd.org/dnd/monstres.php?vo=grung) tried to chase them away, fired a warning shot and the party attacked and killed all but one who fled and went for backup.  
+- Trekked into [[Places/Faerun/The High Forest\|The High Forest]] along the [[Places/Faerun/Dessarin River\|Dessarin River]] for about 2 hours, found some Grung in the shallows of the river guarding a spawning pool full of tadpoles.  The [Grung](https://www.aidedd.org/dnd/monstres.php?vo=grung) tried to chase them away, fired a warning shot and the party attacked and killed all but one who fled and went for backup.  
 - While the air filled with the sounds of Grung in the trees the party considered whether or not to destroy the spawning pool and the ~300 tadpoles in it.  Nira blasted the pool with Sacred Flame before they fled
 - Aired took a sample of Orange Grung Poison
 ### Session 4

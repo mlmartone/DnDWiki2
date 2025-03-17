@@ -10,4 +10,4 @@ Little else is known about the ancient dragon as the cult is an impenetrable bla
 
 Selunius resides in the original House of Selune, believed to be the seat of power for the Goddess Selune when she graces the material plane with her presence.  The temple has been ruined and all of the iconography defaced and replaced with images of Selunius herself as she believes herself to be the one true Lunar Goddess.  Her horde is suspended in a frozen pit beneath the opening of the caldera of the mountain in magical ice that only she can manipulate.  Her mere presence creates a dangerous black frost that creeps across the lunar wastes, a maddening howl on the wind, and her wingbeats leave behind moon devils; swirling tornadoes of lunar regalith that freeze any who approach her lair.  
 
-![[Void-Dragon_Elder.avif]]
+![Pasted image 20250317005024.png](/img/user/Z_Attachments/Pasted%20image%2020250317005024.png)

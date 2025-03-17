@@ -6,4 +6,4 @@ An alien flying ship crashed on [[People/Player Characters/Nira\|Nira]]'s ranch 
 
 Also there is a beholder-mind flayer hybrid aberration onboard currently that should probably be dealt with first.  
 
-*Seedtime 10*: The party, with the help of [[People/Tild\|Tild]] and Void, was able to repair the ship's enchantment and get it off the ground.  The also befriended the [[People/Other Adventurers/Mindwitness\|Mindwitness]] and have taken it along with the ship out of [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]] and into space.  
+*Seedtime 10*: The party, with the help of [[People/Other Adventurers/Tild\|Tild]] and Void, was able to repair the ship's enchantment and get it off the ground.  The also befriended the [[People/Other Adventurers/Mindwitness\|Mindwitness]] and have taken it along with the ship out of [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]] and into space.  

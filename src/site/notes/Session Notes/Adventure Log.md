@@ -20,6 +20,7 @@
 [[Session Notes/Chapter 3\|Chapter 3]]: Hidden Foes Revealed
 [[Session Notes/Chapter 4\|Chapter 4]]: The Battle for Grey Hawk
 [[Session Notes/Chapter 5\|Chapter 5]]: Trouble in Paradise
+Chapter 6: Betrayal
 ### Session 29
 *Seedtime 9*
 - After resting the party gathered their gear and got ready to leave [[Places/The Beastlands\|The Beastlands]] with [[People/Grey Hawk Citizens/Clarence\|Clarence]]'s blessing
@@ -99,5 +100,110 @@
 - It then predicted the arrival of two more imprinted members and said farewell to Wrenn
 ### Session 32
 *Seedtime 9*
-- While the party was exploring the ship and interrogating the mindwitness [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] blinked out of existence and [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] and [[People/Player Characters/Aired Helelar\|Aired Helelar]] appeared with Aired holding the Astral Orb
-- When asked how to destroy the orb they were told 
+- While the party was exploring the ship and interrogating the [[People/Other Adventurers/Mindwitness\|Mindwitness]] [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] blinked out of existence and [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] and [[People/Player Characters/Aired Helelar\|Aired Helelar]] appeared with Aired holding the Astral Orb
+- When asked how to destroy the orb they were told it couldn't be destroyed but it could be cut off from the source of power by destroying the Monoliths in the Kiba System
+- It told them that they would be "perfect" in 3-4 cycles, which was less than a year
+- It said "perfect" meant one with the Nine Tongued Worm and that its crossing into the material plane would be complete when their power was too great for their physical forms and instead they melded into the worm itself
+- Feannag wanted no part in this so he and Aired took the orb to give to [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] in exchange for their freedom
+- He was surprised to see them and glad they were ready to hand over the Astral Orb, but he informed them that they'd need to be quarantined and and questioned about their experiences with the orb and that the Mindwitness's information was changing the situation
+- As the Mindwitness answered their questions Perce said it was poisoning them and needed to be destroyed as he stabbed it with his sword
+- [[People/Player Characters/Nira\|Nira]] warped him away from it and the party tried to calm him down while [[People/Player Characters/Rip\|Rip]] used *Detect Magic* to check, but nothing was showing up around Perce, meanwhile [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]] collected the Mindwitness's blood
+- The Mindwitness offered to kill itself in the ultimate act of subservience, but the party told it not to, instead ushering Perce and Greg out of the ship
+- [[People/Other Adventurers/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]] was thrilled with the research possibilities with the Orb and Mindwitness, and she wanted to take the party back to Neverwinter to run experiments on them
+- Outside things were getting heated between Alduin and Feannag, and as Gabriella opened the forcefield the paladins surrounded the party to take them into custody
+- Perce asked Rip to create a diversion, which he did by lighting Alduin's tent on fire, which created chaos that [[People/Adversaries/Commandant Bradley\|Commandant Bradley]] used to shoot [[People/Player Characters/Cock\|Cock]]
+- Perce grinned a wicked smile and thanked the party for their help in returning him to his orb and ship
+- The party watched in dismay as his eyes glowed blue with psionic energy and he unleashed a mind-crush blast onto everyone, stunning much of the party and paladins before grabbing the orb and running back to the ship
+- Furious about the betrayal Rip sent a *Fireball* hurtling towards the revealed [[People/Adversaries/Serax-Dral\|Serax-Dral]], followed by an upcasted fireball from Gabriella, not to be outdone
+- He knocked Aired unconscious as he boarded the ship, but as he looked set to get away Rip dropped him with a *Tasha's Mind Whip* and he collapsed on the deck
+- Cock was near death from being attacked by a paladin with a gun, but he got Alduin's attention and was healed then bound and restrained
+- Rip and Nira soon followed as the paladins beat them down and forced them to surrender, Rip managed to set [[People/Other Adventurers/Pointy\|Pointy]] free and send him to go get help without anyone noticing
+- Meanwhile Greg revived Aired and they went with Gabriella to get more information out of the mindwitness
+- It told them it could gain memories and knowledge from eating brains, and they decided to feed it Serax-Dral's body
+- In a horrifying, grotesque display the Mindwitnes's tentacles strangled the body and pulled its head toward the rows of sharp teeth for cutting through skulls, but suddenly the body began to thrash as Serax-Dral's *Feign Death* wore off and he woke up just in time to feel his brain get sucked out of his head
+- Feannag had managed to escape capture by the paladins and fled stealthily to Greg's house where he picked the lock and found a secret door leading to a secret lab in the basement
+- After solving a riddle and brewing some poison to satisfy the lock he got in and heard a voice calling up from the basement
+### Session 33
+*Seedtime 9-10*
+- [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] entered [[People/Grey Hawk Citizens/'Greasy' Greg Gremble\|'Greasy' Greg Gremble]]'s secret lab and met [[People/Grey Hawk Citizens/Nora Gremble\|Nora Gremble]], who had been hiding out there since the attack
+- He studied the complex Alchemist's equipment and stole as many ingredients as he could, including a mystery potion made from Manticore blood
+- There was a knock on the lab door and Feannag could hear [[People/Other Adventurers/Orbital Strike/Void\|Void]]'s voice asking him to come out and talk, but he didn't answer
+- He brewed some poisons and prepared some bombs over the course of the day then headed out at midnight to rescue the party
+-  [[People/Player Characters/Rip\|Rip]], [[People/Player Characters/Nira\|Nira]], [[People/Player Characters/Cock\|Cock]], and [[People/Player Characters/Aired Helelar\|Aired Helelar]] were under house arrest in Nira's home
+- Nira used the sheep as an excuse to go out to the barn to get [[People/Grey Hawk Citizens/Zuri Xibloes\|Zuri Xibloes]] to agree to provide a sheep-based distraction at her signal
+- Cock found [[People/Grey Hawk Citizens/Goop\|Goop]] and bargained to get their stuff out of the chest in Alduin's tent and into the ship in exchange for something shiny
+- Aired went to the outhouse and took the Astral Mushrooms, which caused him to *Astral Project* through space: seeing himself as if from above, then a birds-eye view of [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]], zooming out further to see all of Faerun, the planet of Toril, the moon, the entire crystal sphere of Realmspace, the deep reaches of the Astral plane and the constellations of crystal spheres, past a verdant living citadel floating in space and finally to a gargantuan creature with a single eye and massive claws that said "the gods deny passage" before sending him hurtling back along his silver cord to his body, waking up a moment later from his trip feeling like an eternity had passed
+- [[People/Grey Hawk Citizens/Dutch 'The Boozer King' Ottenbrau\|Dutch 'The Boozer King' Ottenbrau]] stopped by the house with a six-pack of healing potions disguised as beer and some equipment at Rip's request
+- Long Rest- everyone but Wrenn didn't recover full hitpoints due to nightmares and poor sleep
+- Meanwhile [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] spent hours trapped in the pocket dimension and used the time to learn to maneuver themselves around, study rocks, extract silvery ore from them, and approach the barrier at the edge of the space
+- They could see that it was expanding slowly and objects were phasing into the space as it expanded
+- After hours waiting Wrenn reappeared on the ship holding the orb next to [[People/Other Adventurers/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]] who was deep in notes from interviewing the [[People/Other Adventurers/Mindwitness\|Mindwitness]]
+- She didn't seem to mind Wrenn's presence so they asked the Mindwitness some questions and tinkered with the enchantment that allows the ship to fly
+- They learned about where the party has been going when they blip out of existence and how it was part of the process of becoming "perfect"
+- At midnight Feannag left Greg's house and ran into [[People/Tild\|Tild]], whom [[People/Other Adventurers/Pointy\|Pointy]] had summoned when sent to get help
+- They approached the camp together and snuck into [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]]'s tent where he poisoned Alduin's bedside milk and saw that Alduin had a chest of the party's equipment along with Greg and [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]]
+- Meanwhile in Nira's house [[People/Adversaries/Commandant Bradley\|Commandant Bradley]] entered and said he needed to bring Cock to see Alduin alone, which everyone saw through as a lie
+- Cock and Aired worked together to fight him off but he called for backup, claiming the party had attacked him first
+- They managed to defeat Bradley and Cock took his gun, then they used the commotion to escape the house while Nira called in her distraction and had sheep stampede through the camp and her house
+- Simultaneously Tild caused a massive Copper Dragon to appear above the camp and swoop threateningly overhead which scared the paladins and allowed the party to escape capture and Nira took refuge in Alduin's tent where she and Feannag recovered the party's gear before fleeing to meet the rest of the group near the forcefield around the ship
+- Nira teleported Aired through and after he failed to convince Gabriella to lower the barrier he attacked her and broke her concentration, and after a brief fight subdued her
+- The party gathered with Void and Tild on the ship as the paladins advanced, but Feannag didn't join them, instead choosing to take on the ranks of paladins that had wronged him and his friends
+### Session 34
+*Seedtime 10*
+- [[People/Tild\|Tild]], [[People/Other Adventurers/Orbital Strike/Void\|Void]], [[People/Player Characters/Rip\|Rip]], and [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] worked to restore the enchantment to the ship and get it flightworthy again and Wrenn took the helm
+- Feannag told the party to help him kill Alduin or leave without him, then shot Alduin and dove into the crowd of paladins seeking revenge
+- They thanked Tild and offered them a chance to join the ship but they declined and flew off on [[People/Other Adventurers/Pointy\|Pointy]]
+- [[People/Player Characters/Cock\|Cock]] and [[People/Player Characters/Aired Helelar\|Aired Helelar]] decided to ensure a random bush near [[People/Player Characters/Nira\|Nira]]'s house came with them on the interstellar voyage so they tied a rope around Aired and he hung off the bottom of the ship as it got airborne
+- Alduin and Feannag battled into Nira's house where Feannag hid and struck from the shadows and Alduin returned with an incredibly powerful smite
+- Aired offered Feannag one more chance to come with the party but instead Feannag just handed back Aired's *Ring of Shared Suffering* before going back into a death-struggle with Alduin
+- As the ship began to fly away an angelic paladin burst from the camp and flew at the ship, nearly killing Cock before it was neutralized
+- Aired managed to uproot the bush as the ship flew away, and as he did it started yelling at him for waking it up from its slumber
+- Rip got pulled into the orb and heard strange echoing voices speaking in a strange eldritch tongue about the party
+- Feannag downed Alduin with a stun-sneak attack combo and went in to finish the job as Nira's' house exploded in flame around them
+- Nira, enraged by the loss of her house, blasted Gabriella with a lightning bolt to knock her unconscious
+- The party left Feannag to his grim work as paladins surrounded the burning house and they flew off into the night
+- Onboard the bush introduces itself as the Garlicle and says its grandmother, the hag, had planted it there
+- Void said that they needed to dock and make repairs and Nira suggested the moon where Void mentioned there was a spaceport on the far side
+- They also mentioned that they should avoid any lunar dragons at all costs as the party ascended above the world and into the unknown
+### Session 35
+*Ship's Log 0 (Seedtime 10) - Ship's Log 1*
+- Onboard the ship [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] learned the controls and [[People/Player Characters/Aired Helelar\|Aired Helelar]] figured out how to manually control the grappling claw at the front
+- [[People/Player Characters/Nira\|Nira]] researched lunar dragons using the ship's library and found that they were xenophobic, aggressive, territorial, and love black-and-white imagery, especially silver metal and diamonds in their hordes
+- Aired got pulled into the orb and saw a huge destroyed moon with a burning village floating in the space as the pieces of the moon drifted apart slowly
+- Long Rest
+- Arrived at the far side of the moon, saw a glittering lake amongst the barren lunar wastes with a huge island in the center that was packed with the immense city of [[Places/Arnesport\|Arnesport]] from coast to coast
+- Lots of ships of varying sizes and shapes were coming and going from a shipyard, and after a brief communication with a tower they were given permission to land in the drydock for repairs
+- A bespectacled gnome approached the ship with some papers and asked for a 100gp docking fee, which the party gave him
+- [[People/Other Adventurers/Orbital Strike/Void\|Void]] went to see the harbormaster about repairs
+- While leaving the harbor the party was stopped by guards who demanded an actual docking fee of "3 pieces for the horde or 750sp"
+- They realized that they had been swindled by the gnome and couldn't pay the real docking fee, so Nira discussed how to pay off their debt with the guards
+- They said the treasure barge would be making a trip to the other side of the moon to deliver the monthly payment to the dragon in exchange for the dragon leaving the city in peace and that they could pay off their debt by manning the barge and to find the captain at the tavern "The Happy Beholder"
+- Much of the party was in awe as they moved through the city which was much bigger than anything the [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]] locals had seen before
+- They arrived at the tavern and Aired immediately befriended the barkeep, a jovial beholder named [[People/Arnesport Citizens/Large Luigi\|Large Luigi]], who pointed him to one of the heaviest drinking regulars in the bar, [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]]
+- Erastus was a shabby-looking human with a thousand-yard stare past his mountain of empty beer mugs and a monotone, self-important way of speaking about his duty as the captain of the Treasure Barge
+- He was unimpressed with the party, but was undercut by his first mate [[Anihala\|Anihala]] and ship's scribe [[Algarjax\|Algarjax]], who took a liking to the party and helped convince Erastus to let them join the next mission to deliver the treasure to the dragon
+- Erastus told them to meet him at the docks in an hour and left to get the ship ready
+- In the tavern they were approached by a merchant selling magic items who told them to come to his shop and Wrenn asked around to get an idea of other points of interest in the city including a fortune teller named [[Madame Mystica\|Madame Mystica]], a teleportation circle, and the Mercane Agency where there were odd jobs to be claimed for cash
+### Session 36
+*Ship's Log 1 (Arnesport Sunrise)*
+- In the tavern [[People/Arnesport Citizens/Large Luigi\|Large Luigi]] noticed something magical floating over [[People/Player Characters/Aired Helelar\|Aired Helelar]]'s shoulder but no one else could see it before it disappeared
+- The party went with [[Anihala\|Anihala]] and [[Algarjax\|Algarjax]] down to the docks to help [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] load the treasure onto the ship, it was tough work and many of the party exhausted themselves
+- As they were about to set off there was a flash in the sky half of a spelljamming ship careened out of space over the city in a fireball and crashed into the drydock with an explosion, Algarjax identified it as the *Icarus*, an immensely powerful pirate vessel run by some of the royal houses of [[Places/Arnesport\|Arnesport]]
+- A booming voice interrupted everyone's thoughts announcing that all vessels leaving the moon must pay tribute to and accept inspection from "[[The Dealer\|The Dealer]]" or suffer consequences like the *Icarus*
+- Shaken but undeterred they set off on the treasure barge towards the dragon's lair on the other side of the moon, the clunky old ship belching out black smoke from it's outdated engine and swimming through the air just above the ground with six enormous tentacles that had been grafted onto the hull
+- Everyone short rested as the ship left the tropical air of the Arnesport bubble and crossed the frigid lunar wastes, Aired got a long rest
+- Anihala asked Cock if he was a *Black Saint* after seeing his weapon and seemed incredulous that a moron like him could be a master assassin
+- As they crossed the moon they began to see a creeping black frost on the ground radiating out from their direction of travel and they heard a low moaning howl on the wind
+- Lunar dust tornadoes kicked up all around them and suddenly three rushed towards the ship and attacked
+- The moon devils tried to fling the crew overboard into the frost and nearly killed Cock and Aired before they were defeated and driven off
+- Wrenn successfully harvested a Volatile Mote of Ice from a moon devil as it dissipated
+### Session 37
+*Ship's Log 1 (Arnesport Sunrise)*
+- Short rest on the Treasure Barge
+- They approached a huge mountain through a massive ship graveyard the howling got louder and the black ice covered the ground, they could see strange wooden statues covering the slopes
+- At the base there were ruins of a massive temple built into the side of the mountain which had been broken open so a gargantuan creature could enter
+- Outside the lair they met with a cloaked figure and a plate-clad knight who spoke on behalf of the dragon, chastising those who spoke out of turn and taking the treasure off of the barge after a terse conversation with [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]]
+- [[People/Player Characters/Nira\|Nira]] convinced them that she was the dragon's heir and they were led into the lair to meet the dragon
+- Inside there were cultists everywhere and they saw a room full of frozen bodies that the main cultist, Gleam, described as the "larder"
+- They also saw an old elf trapped behind a solid wall of ice huddled under a threadbare blanket in the corner, Gleam said that [[Sulumor\|Sulumor]] was the dragon's pet and he had been uncooperative lately
+- 

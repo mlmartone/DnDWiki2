@@ -20,7 +20,7 @@
 [[Session Notes/Chapter 3\|Chapter 3]]: Hidden Foes Revealed
 [[Session Notes/Chapter 4\|Chapter 4]]: The Battle for Grey Hawk
 [[Session Notes/Chapter 5\|Chapter 5]]: Trouble in Paradise
-[[Chapter 6\|Chapter 6]]: Betrayal
+[[Session Notes/Chapter 6\|Chapter 6]]: Betrayal
 ### Session 38
 *Ship's Log 1 (Arnesport Sunrise)*
 - Nira [UNBOUND] fight

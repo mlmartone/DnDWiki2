@@ -10,3 +10,4 @@ Orange Grung Poison -> various poisons
 Boogle Oil -> oil of slipperiness
 Kruthik Saliva -> potions of darkvision
 Manticore Blood -> ???
+Mindwitness Saliva and Blood -> ???

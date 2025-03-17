@@ -202,7 +202,7 @@ Chapter 6: Betrayal
 - Short rest on the Treasure Barge
 - They approached a huge mountain through a massive ship graveyard the howling got louder and the black ice covered the ground, they could see strange wooden statues covering the slopes
 - At the base there were ruins of a massive temple built into the side of the mountain which had been broken open so a gargantuan creature could enter
-- Outside the lair they met with a cloaked figure and a plate-clad knight who spoke on behalf of the dragon, chastising those who spoke out of turn and taking the treasure off of the barge after a terse conversation with [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]]
+- Outside the lair they met with a cloaked figure and a plate-clad knight who spoke on behalf of the dragon, [[Selunius\|Selunius]], chastising those who spoke out of turn and taking the treasure off of the barge after a terse conversation with [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]]
 - [[People/Player Characters/Nira\|Nira]] convinced them that she was the dragon's heir and they were led into the lair to meet the dragon
 - Inside there were cultists everywhere and they saw a room full of frozen bodies that the main cultist, Gleam, described as the "larder"
 - They also saw an old elf trapped behind a solid wall of ice huddled under a threadbare blanket in the corner, Gleam said that [[Sulumor\|Sulumor]] was the dragon's pet and he had been uncooperative lately

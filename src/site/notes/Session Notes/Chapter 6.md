@@ -145,12 +145,12 @@ The party returns from [[Places/The Beastlands\|The Beastlands]] to a devastated
 - Feannag downed Alduin with a stun-sneak attack combo and went in to finish the job as Nira's' house exploded in flame around them
 - Nira, enraged by the loss of her house, blasted Gabriella with a lightning bolt to knock her unconscious
 - The party left Feannag to his grim work as paladins surrounded the burning house and they flew off into the night
-- Onboard the bush introduces itself as the Garlicle and says its grandmother, the hag, had planted it there
+- Onboard the bush introduced itself as [[People/Grey Hawk Citizens/The Garlicle\|The Garlicle]] and says its grandmother, the hag, had planted it there
 - Void said that they needed to dock and make repairs and Nira suggested the moon where Void mentioned there was a spaceport on the far side
-- They also mentioned that they should avoid any lunar dragons at all costs as the party ascended above the world and into the unknown
+- They also mentioned that they should avoid any lunar dragons at all costs as the party ascended above the world and into the unknown of Wildspace
 ### Session 35
 *Ship's Log 0 (Seedtime 10) - Ship's Log 1*
-- Onboard the ship [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] learned the controls and [[People/Player Characters/Aired Helelar\|Aired Helelar]] figured out how to manually control the grappling claw at the front
+- Onboard the ship [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] learned the ship's controls and [[People/Player Characters/Aired Helelar\|Aired Helelar]] figured out how to manually control the grappling claw at the front
 - [[People/Player Characters/Nira\|Nira]] researched lunar dragons using the ship's library and found that they were xenophobic, aggressive, territorial, and love black-and-white imagery, especially silver metal and diamonds in their hordes
 - Aired got pulled into the orb and saw a huge destroyed moon with a burning village floating in the space as the pieces of the moon drifted apart slowly
 - Long Rest
@@ -192,7 +192,7 @@ The party returns from [[Places/The Beastlands\|The Beastlands]] to a devastated
 - The party was led into a cathedral chamber with an open ceiling through the caldera of the mountain so a beam of moonlight could penetrate, the floor was clear ice that descended into darkness that shone with the light of millions of pieces of silver, gems, and magical artifacts suspended in the ice
 - The cultists around them knelt and the party remained standing except for Erastus who bent the knee as an uneasy silence settled over the chamber
 - The beam of moonlight slowly shifted across the room until it fell upon the opposite wall and revealed the spectral form of an immense dragon bathed in moonlight with a halo of stars that passed halfway around her head
-- The dragon introduced itself as [[People/Arnesport Citizens/Selunius\|Selunius]] and called Nira forward, recognizing her as a descendant of her humanoid bloodline on Toril
+- The dragon introduced itself as [[People/Arnesport Citizens/Selunius\|Selunius]] and called Nira forward, recognizing her as a descendant of her humanoid bloodline on [[Places/Faerun/Faerun\|Faerun]]
 - With Nira's staff in hand Selunius assumed she was a great priestess or leader and must be searching for a mate with which to bear the next generation of Selunius's line, but Nira insisted that she was just a simple shepherd of no importance and that she was much too old to have a child
 - The dragon, dismissing Nira's wishes and concerns about age, said that she was just a tool, Selunius's property by which she passes on the bloodline to maintain a presence on the planet among the humans
 - Nira was offered great boons and power if she was loyal and accepted the gift of renewed youth in order to bear a child
@@ -203,5 +203,5 @@ The party returns from [[Places/The Beastlands\|The Beastlands]] to a devastated
 - He was told to return to [[Places/Arnesport\|Arnesport]] and act as Selunius's agent on the council and to venture into space to track down the Solar Dragon Wyrmlings that recently hatched
 - Nira was brought forward, bound, and placed in a circle of runes opposite the child and after a brief ritual the runes glowed and a beam of moonlight connected the two, drawing Nira's magical power out and imbuing the cultist child with her power
 - Nira felt empty, drained of the magic that sustained her, and when she tried to summon some arcane energy to cast *Prestidigitation* she drew from an empty well, going deeper and deeper until she found something strange through which to channel magic, something eldritch and all-consuming
-- As the party looked on Nira's eyes began to glow with an eerie purple light and she began to float upwards along with the Astral Orb and transform into a horrific new form
+- As the party looked on, Nira's eyes began to glow with an eerie purple light and she began to float upwards along with the Astral Orb and transform into a horrific new form
 - Level Up! (6->7)

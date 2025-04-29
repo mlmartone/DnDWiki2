@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/arnesport-citizens/selunius/","tags":["Character"]}
+{"dg-publish":true,"permalink":"/people/arnesport-citizens/selunius/","tags":["Character","Adversary","Ally"]}
 ---
 
 Selunius is the chosen name of the gargantuan Ancient Lunar Dragon that has claimed Selune, the moon orbiting Toril as her territory for millennia.  None know what her original name was, only that she has taken on the name of the goddess of the moon in vanity, believing herself to be the true deity worthy of lunar worship.  Insatiably greedy, incredibly xenophobic, and dangerously narcissistic, Selunius has built an incredibly devoted cult to worship her as a god and cater to her every whim.  Like all lunar dragons she is obsessed with the phases of the moon and light/dark symbolism, so she hoards treasures such as silver, pearls, black diamonds, and magical artifacts that specifically deal with changes in alignment.  

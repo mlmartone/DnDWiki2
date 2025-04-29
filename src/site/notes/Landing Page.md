@@ -9,8 +9,8 @@ Session Notes and info on Player Characters: [[Session Notes/Adventure Log\|Adve
 
 General World Info: [[Places/Faerun/Faerun\|Faerun]]
 
-Starting Village Background: [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]]
+Key Locations: [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]], [[Places/The Beastlands\|The Beastlands]], [[Places/Arnesport\|Arnesport]]
 
 Current Objectives: [[Quests/Quest List\|Quest List]]
 
-Other Characters: [[People/Other Adventurers/Orbital Strike/Orbital Strike\|Orbital Strike]], [[People/Other Adventurers/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]]
+Other Characters: [[People/Faerun Denizens/Orbital Strike/Orbital Strike\|Orbital Strike]], [[People/Faerun Denizens/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]]

@@ -4,7 +4,7 @@
 
 Played by: Adam
 Race: [Kenku](http://dnd5e.wikidot.com/lineage:kenku)
-Class and Level: [Warlock](http://dnd5e.wikidot.com/warlock) 6
+Class and Level: [Warlock](http://dnd5e.wikidot.com/warlock) 7
 Subclass: [Hexblade](http://dnd5e.wikidot.com/warlock:hexblade)
 Age: 30-ish
 Alignment: True Neutral

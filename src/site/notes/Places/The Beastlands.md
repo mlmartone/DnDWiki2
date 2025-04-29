@@ -16,4 +16,4 @@ Strange magic governs the plane, giving animals greater intelligence and cunning
 [[People/Beastlands Denizens/Duuza\|Duuza]]
 [[People/Beastlands Denizens/Trisfina\|Trisfina]]
 [[People/Beastlands Denizens/Romper\|Romper]]
-[[People/Adversaries/The Vile Hunt\|The Vile Hunt]]
+[[People/Beastlands Denizens/The Vile Hunt\|The Vile Hunt]]

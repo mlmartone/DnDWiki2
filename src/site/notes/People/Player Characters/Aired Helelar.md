@@ -4,7 +4,7 @@
 
 Played by: Zac
 Race: [Wood Elf](http://dnd5e.wikidot.com/lineage:elf)
-Class and Level: [Monk](http://dnd5e.wikidot.com/monk) 6
+Class and Level: [Monk](http://dnd5e.wikidot.com/monk) 6 / [Fighter](https://dnd5e.wikidot.com/fighter) 1
 Subclass: [Drunken Master](https://dnd5e.wikidot.com/monk:drunken-master)
 Age: Uncertain, around 170?
 Alignment: Chaotic Good

@@ -6,4 +6,4 @@
 
 [Eric's Homebrew Poisons & Alchemy Rules](https://docs.google.com/document/d/1IB1R584HuYvvn_VkwGEe_XP7AuCpQAErXNsrBIE-Rso/edit?tab=t.0)
 
-*Seedtime 10*: Feannag's whereabouts are unknown after a clash with [[People/Other Adventurers/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]], and he is no longer with the party.  
+*Seedtime 10*: Feannag's whereabouts are unknown after a clash with [[People/Faerun Denizens/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]], and he is no longer with the party.  

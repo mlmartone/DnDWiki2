@@ -5,10 +5,13 @@
 ## Party Composition
 [[People/Player Characters/Aired Helelar\|Aired Helelar]]
 [[People/Player Characters/Cock\|Cock]]
-[[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]]
+[[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]]
 [[People/Player Characters/Nira\|Nira]]
 [[People/Player Characters/Rip\|Rip]]
 [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]]
+
+#### Former Members
+[[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]]
 
 ---
 ## Session Notes
@@ -20,7 +23,7 @@
 [[Session Notes/Chapter 3\|Chapter 3]]: Hidden Foes Revealed
 [[Session Notes/Chapter 4\|Chapter 4]]: The Battle for Grey Hawk
 [[Session Notes/Chapter 5\|Chapter 5]]: Trouble in Paradise
-[[Session Notes/Chapter 6\|Chapter 6]]: Betrayal
+[[Session Notes/Chapter 6\|Chapter 6]]: Betrayal and Flight
 ### Session 38
 *Ship's Log 1 (Arnesport Sunrise)*
 - [[People/Player Characters/Nira\|Nira]]'s form began to bulge and writhe as it transformed, her chains breaking as tentacles sprouted from her back and she chanted in Deep Speech with a voice that was not her own
@@ -50,6 +53,6 @@
 	* Aired drew *Jester* and *Void*, which foretold him failing and making terible mistakes from stupid decisions from being drunk, but he would die happy
 	* Rip drew *Gem* and *Void*, which foretold how he might die from keeping a jealous secret, but Rip rejected this fortune
 * They went to Buti's Beautiful Booty, a huge magical item emporium in a massive ship in the market where [[People/Player Characters/Cock\|Cock]] and Wrenn bought a *Spell Storing Ring*, a *Wild Magic Ring*, and a pair of *Glorious Holes* and traded in their cursed *Ring of Cold Resistance*
-* They went back to the ship to see [[People/Other Adventurers/Orbital Strike/Void\|Void]] who told them the repairs to the ship would be done in one day and that he sold off the Psurlon's books to pay for the repairs and had 250GP left over for them
+* They went back to the ship to see [[People/Faerun Denizens/Orbital Strike/Void\|Void]] who told them the repairs to the ship would be done in one day and that he sold off the Psurlon's books to pay for the repairs and had 250GP left over for them
 * They planned to set off in search of the Prime Werewolf to cure Wrenn, starting with the Mercane Agency for possibly bounty hunters and brothels for werewolves in disguise
 * Erastus was fired from his job as captain of the Treasure Barge and was summoned to see the nobles of [[Places/Arnesport\|Arnesport]] for his involvement with the dragon

@@ -9,14 +9,14 @@
 ### Party Quests/Leads
 [[Quests/Bump in the Night\|Bump in the Night]] (Grey Hawk)
 [[Quests/Sealed in the Lab\|Sealed in the Lab]] (Grey Hawk)
-[[Quests/Archived/A Djinni-us Plan\|A Djinni-us Plan]]
+[[Quests/A Djinni-us Plan\|A Djinni-us Plan]]
 [[Quests/Hunt the Hunters\|Hunt the Hunters]] (The Beastlands)
 [[Quests/Bailey's Close Encounter\|Bailey's Close Encounter]] (Grey Hawk)
 [[Quests/Ponder the Orb\|Ponder the Orb]]
 [[Quests/Deal with The Dealer\|Deal with The Dealer]] (Arnesport)
 [[Quests/Elder Evil Emerges\|Elder Evil Emerges]]
 ### Ongoing Quests
-[[Quests/Fluids of Inconceivable Peculiarity\|Fluids of Inconceivable Peculiarity]]
+[[Quests/Archived/Fluids of Inconceivable Peculiarity\|Fluids of Inconceivable Peculiarity]]
 [[Quests/Goop's Treasures\|Goop's Treasures]]
 [[Quests/Tild's Ingot\|Tild's Ingot]]
 ### Archived Quests

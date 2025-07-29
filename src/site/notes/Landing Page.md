@@ -14,3 +14,7 @@ Key Locations: [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]], [[Places/The Be
 Current Objectives: [[Quests/Quest List\|Quest List]]
 
 Other Characters: [[People/Faerun Denizens/Orbital Strike/Orbital Strike\|Orbital Strike]], [[People/Faerun Denizens/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]]
+
+Bastion: [[People/Player Characters/Sea Bastion\|Sea Bastion]]
+
+Documents: [[D&D_Homebrew_Rules.pdf]], [[Phylornel_Black_Market.pdf]], [[Ship Sheet.pdf]]

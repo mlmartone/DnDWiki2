@@ -12,4 +12,6 @@
 
 *Seedtime 8*: A group called [[People/Beastlands Denizens/The Vile Hunt\|The Vile Hunt]] is killing intelligent animals in [[Places/The Beastlands\|The Beastlands]] with weapons that look very similar to these.  Cock's weapon was able to absorb their weapons just like the others.  
 
+*Ship's Log 3*: A strange assassin named [[People/Arnesport Citizens/Thunivel\|Thunivel]] in the [[Places/Sapling of Yggdrasil\|Sapling of Yggdrasil]] seems to be carrying similar weapons and seems connected to The Vile Hunt.  
+
 ![Pasted image 20240305012902.png](/img/user/Z_Attachments/Pasted%20image%2020240305012902.png)

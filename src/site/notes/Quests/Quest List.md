@@ -5,7 +5,6 @@
 ### Personal Quests
 [[People/Player Characters/Cock\|Cock]]: [[Quests/Pi'za Party\|Pi'za Party]]
 [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]]: [[Quests/A Reluctant Oath\|A Reluctant Oath]]
-[[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]]: [[Quests/The Wolf's Curse\|The Wolf's Curse]]
 ### Party Quests/Leads
 [[Quests/Bump in the Night\|Bump in the Night]] (Grey Hawk)
 [[Quests/Sealed in the Lab\|Sealed in the Lab]] (Grey Hawk)
@@ -32,6 +31,7 @@
 [[People/Player Characters/Aired Helelar\|Aired Helelar]]: [[Quests/Archived/Drinking to Forget\|Drinking to Forget]] (Compete!)
 [[Quests/Archived/Ship Shape\|Ship Shape]] (Complete!)
 [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]]: [[Quests/Archived/The Secret Ingredient\|The Secret Ingredient]] (Feannag is no longer in the party)
-[[People/Player Characters/Nira\|Nira]]: [[Quests/To The Moon\|To The Moon]] (Complete!)
+[[People/Player Characters/Nira\|Nira]]: [[Quests/Archived/To The Moon\|To The Moon]] (Complete!)
+[[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]]: [[Quests/Archived/The Wolf's Curse\|The Wolf's Curse]] (Complete!)
 
 

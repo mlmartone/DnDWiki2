@@ -14,6 +14,7 @@
 [[Quests/Ponder the Orb\|Ponder the Orb]]
 [[Quests/Deal with The Dealer\|Deal with The Dealer]] (Arnesport)
 [[Quests/Elder Evil Emerges\|Elder Evil Emerges]]
+[[Member-Dis\|Member-Dis]] (The Shadowfell)
 ### Ongoing Quests
 [[Quests/Archived/Fluids of Inconceivable Peculiarity\|Fluids of Inconceivable Peculiarity]]
 [[Quests/Goop's Treasures\|Goop's Treasures]]

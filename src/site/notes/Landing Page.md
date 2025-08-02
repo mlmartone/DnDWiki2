@@ -17,4 +17,4 @@ Other Characters: [[People/Faerun Denizens/Orbital Strike/Orbital Strike\|Orbita
 
 Bastion: [[People/Player Characters/Sea Bastion\|Sea Bastion]]
 
-Documents: [[D&D_Homebrew_Rules.pdf]], [[Phylornel_Black_Market.pdf]], [[Ship Sheet.pdf]]
+Documents: [D&D Homebrew Rules](https://drive.google.com/file/d/1oBrAxfaBO1hYoVFVPK74eQr2VrdbR1ZV/view?usp=drive_link), [Phylornel Black Market](https://drive.google.com/file/d/1vj8GVRPaZ4hROq21e9YAyB8eDvq17kjS/view?usp=drive_link), [Ship Sheet](https://drive.google.com/file/d/1ejznXrbJOL9G4NIqeVg5YbBzoXzA9-Lp/view?usp=drive_link)

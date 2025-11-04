@@ -4,7 +4,7 @@
 
 Played by: Adam
 Race: [Kenku](http://dnd5e.wikidot.com/lineage:kenku)
-Class and Level: [Warlock](http://dnd5e.wikidot.com/warlock) 7
+Class and Level: [Warlock](http://dnd5e.wikidot.com/warlock) 9
 Subclass: [Hexblade](http://dnd5e.wikidot.com/warlock:hexblade)
 Age: 30-ish
 Alignment: True Neutral
@@ -19,7 +19,7 @@ Cock is a generally pleasant fellow, except for when he isn't. Every day, he los
 
 The journal he carries only chronicles his life since he started living in [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]], which was about a year ago. Since moving to Grey Hawk to be near his brother [[People/Player Characters/Rip\|Rip]], he started working as a Scarecrow on [[People/Player Characters/Nira\|Nira]]'s farm (wildly misunderstanding the whole concept). 
 
-He has a big scary mysterious patron who talks to him through his gun. Sometimes his gun stabs him. The gun is a pizza. 
+He has a big scary mysterious patron who talks to him through his gun. Sometimes his gun stabs him. The gun is a pizza ([[People/Black Saints/Pi'za\|Pi'za]]). 
 
 Since nobody has ever seen the patron, we don't actually know if it's big. Or mysterious. Archetypically, you would expect it to be those things, but I suppose there's no reason it can't be a talking Pomeranian with a really deep voice.
 

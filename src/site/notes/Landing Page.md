@@ -9,11 +9,11 @@ Session Notes and info on Player Characters: [[Session Notes/Adventure Log\|Adve
 
 General World Info: [[Places/Faerun/Faerun\|Faerun]]
 
-Key Locations: [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]], [[Places/The Beastlands\|The Beastlands]], [[Places/Arnesport\|Arnesport]]
+Key Locations: [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]], [[Places/The Beastlands\|The Beastlands]], [[Places/Arnesport\|Arnesport]], [[Places/The Shadowfell\|The Shadowfell]]
 
 Current Objectives: [[Quests/Quest List\|Quest List]]
 
-Other Characters: [[People/Faerun Denizens/Orbital Strike/Orbital Strike\|Orbital Strike]], [[People/Faerun Denizens/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]]
+Other Characters: [[People/Faerun Denizens/Orbital Strike/Orbital Strike\|Orbital Strike]], [[People/Faerun Denizens/Ogdin's Horde/Ogdin's Horde\|Ogdin's Horde]], [[People/Arnesport Citizens/Council of Pirate Lords\|Council of Pirate Lords]], [[People/Black Saints/Black Saints\|Black Saints]]
 
 Bastion: [[People/Player Characters/Sea Bastion\|Sea Bastion]]
 

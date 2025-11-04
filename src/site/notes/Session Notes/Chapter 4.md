@@ -22,7 +22,7 @@ The fate of the small town of [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]] i
 - They collected his spellbook, dagger, magical armor, and papers which seemed to bear the mark of [[People/Player Characters/Cock\|Cock]]'s gun Pi'za along with a picture of his face and map to [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]]
 - Cock, wanting to power up his weapon tried to shoot the corpse, but though Pi'za seemed amused by the grizzly gesture nothing happened
 - At that moment a gigantic lightning-fueled golem appeared and began ruthlessly attacking Cock (and when he hid it targeted [[People/Player Characters/Rip\|Rip]]) with its dual arm cannons
-- The party managed to defeat the [Fluxcharger](https://5e.tools/bestiary/fluxcharger-ggr.html) with a few key critical hits and weathered its lightning-storm death throes, then collected its *Lightning Core* and *Primordial Dust*, which Pi'za seemed eager to consume
+- The party managed to defeat the [Fluxcharger](https://5e.tools/bestiary/fluxcharger-ggr.html) with a few key critical hits and weathered its lightning-storm death throes, then collected its *Lightning Core* and *Primordial Dust*, which [[People/Black Saints/Pi'za\|Pi'za]] seemed eager to consume
 - Short Rest
 ### Session 19
 *Seedtime 4-5*

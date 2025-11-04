@@ -29,6 +29,6 @@
 - Meanwhile Aired chased after one fleeing bandit, Tony Pajamas, who managed to escape after taking a suspiciously high amount of damage
 - A party of adventurers came down the wandering path, introduced themselves as [[People/Faerun Denizens/Orbital Strike/Orbital Strike\|Orbital Strike]], including [[People/Faerun Denizens/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]], [[People/Faerun Denizens/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]], [[People/Faerun Denizens/Orbital Strike/Void\|Void]], and [[People/Faerun Denizens/Orbital Strike/Hubert Mugwort\|Hubert Mugwort]].  Said they were chasing a fugitive shapeshifter who had infiltrated Candlekeep's vault and stolen a powerful artifact known as the Astral Orb.  
 - The party was pointed towards the bandit's camp down the road and looted it to find adventuring gear, gold, and a cache of magical items
-- Cock found a *Cloak of Billowing* and a strange weapon called Pi'za that seemed to speak through him when he picked it up, calling him "Puppet" and mentioning that it used to be bonded to him before Cock broke the bond, destroying his memory in the process
+- Cock found a *Cloak of Billowing* and a strange weapon called [[People/Black Saints/Pi'za\|Pi'za]] that seemed to speak through him when he picked it up, calling him "Puppet" and mentioning that it used to be bonded to him before Cock broke the bond, destroying his memory in the process
 - Long Rest
 - Level up! (0->1)

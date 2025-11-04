@@ -71,7 +71,7 @@ The party returns from [[Places/The Beastlands\|The Beastlands]] to a devastated
 - Greg took samples from the Thri-Kreen bodies that were decomposing on the ship
 - Everyone who wasn't mind-shielded heard the mindwitness's voice in their heads asking for its master
 - Cock and [[People/Player Characters/Nira\|Nira]] went to get the helm of the ship from the evidence locker, Nira also gathered some personal effects that had been impounded there
-- Cock suddenly began to recall his previous life, starting with fighting an urge to shoot Alduin and to kill [[People/Faerun Denizens/Commandant Bradley\|Commandant Bradley]]
+- Cock suddenly began to recall his previous life, starting with fighting an urge to shoot Alduin and to kill [[People/Black Saints/Commandant Bradley\|Commandant Bradley]]
 - On the ship Perce got impatient and decided to go in alone to see the Mindwitness despite Nira's successful persuasion
 - After a moment the rest followed, onboard they saw the mess of cargo and a toppled bookshelf, each party member searched through it: [[People/Player Characters/Rip\|Rip]] found some books on Faerun etiquette and Kenku, Cock was drawn to a treatise on the Shadowfell and a book on the royal bloodlines of the Sword Coast, Nira couldn't find any books on dragons or the moon, and [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] found the manual on the operation of the ship
 - They followed Perce to the room with the Mindwitness where it seemed to accept Gabriella as its new master and they fed it the alien heads while Greg collected its saliva
@@ -94,7 +94,7 @@ The party returns from [[Places/The Beastlands\|The Beastlands]] to a devastated
 - The Mindwitness offered to kill itself in the ultimate act of subservience, but the party told it not to, instead ushering Perce and Greg out of the ship
 - [[People/Faerun Denizens/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]] was thrilled with the research possibilities with the Orb and Mindwitness, and she wanted to take the party back to Neverwinter to run experiments on them
 - Outside things were getting heated between Alduin and Feannag, and as Gabriella opened the forcefield the paladins surrounded the party to take them into custody
-- Perce asked Rip to create a diversion, which he did by lighting Alduin's tent on fire, which created chaos that [[People/Faerun Denizens/Commandant Bradley\|Commandant Bradley]] used to shoot [[People/Player Characters/Cock\|Cock]]
+- Perce asked Rip to create a diversion, which he did by lighting Alduin's tent on fire, which created chaos that [[People/Black Saints/Commandant Bradley\|Commandant Bradley]] used to shoot [[People/Player Characters/Cock\|Cock]]
 - Perce grinned a wicked smile and thanked the party for their help in returning him to his orb and ship
 - The party watched in dismay as his eyes glowed blue with psionic energy and he unleashed a mind-crush blast onto everyone, stunning much of the party and paladins before grabbing the orb and running back to the ship
 - Furious about the betrayal Rip sent a *Fireball* hurtling towards the revealed [[People/Astral Denizens/Serax-Dral\|Serax-Dral]], followed by an upcasted fireball from Gabriella, not to be outdone
@@ -125,7 +125,7 @@ The party returns from [[Places/The Beastlands\|The Beastlands]] to a devastated
 - They learned about where the party has been going when they blip out of existence and how it was part of the process of becoming "perfect"
 - At midnight Feannag left Greg's house and ran into [[People/Faerun Denizens/Tild\|Tild]], whom [[People/Faerun Denizens/Pointy\|Pointy]] had summoned when sent to get help
 - They approached the camp together and snuck into [[People/Faerun Denizens/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]]'s tent where he poisoned Alduin's bedside milk and saw that Alduin had a chest of the party's equipment along with Greg and [[People/Grey Hawk Citizens/Bailey Fanteaser\|Bailey Fanteaser]]
-- Meanwhile in Nira's house [[People/Faerun Denizens/Commandant Bradley\|Commandant Bradley]] entered and said he needed to bring Cock to see Alduin alone, which everyone saw through as a lie
+- Meanwhile in Nira's house [[People/Black Saints/Commandant Bradley\|Commandant Bradley]] entered and said he needed to bring Cock to see Alduin alone, which everyone saw through as a lie
 - Cock and Aired worked together to fight him off but he called for backup, claiming the party had attacked him first
 - They managed to defeat Bradley and Cock took his gun, then they used the commotion to escape the house while Nira called in her distraction and had sheep stampede through the camp and her house
 - Simultaneously Tild caused a massive Copper Dragon to appear above the camp and swoop threateningly overhead which scared the paladins and allowed the party to escape capture and Nira took refuge in Alduin's tent where she and Feannag recovered the party's gear before fleeing to meet the rest of the group near the forcefield around the ship

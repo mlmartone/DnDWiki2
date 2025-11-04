@@ -4,7 +4,7 @@
 
 Played by: Sara
 Race: [Human](http://dnd5e.wikidot.com/human)
-Class and Level: [Sorcerer](http://dnd5e.wikidot.com/sorcerer) 7
+Class and Level: [Sorcerer](http://dnd5e.wikidot.com/sorcerer) 9
 Subclass: [Lunar](http://dnd5e.wikidot.com/sorcerer:lunar-sorcery)
 Age: 70
 Alignment: True Neutral

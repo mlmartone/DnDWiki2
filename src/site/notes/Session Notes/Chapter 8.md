@@ -1,0 +1,128 @@
+---
+{"dg-publish":true,"permalink":"/session-notes/chapter-8/","tags":["CampaignNotes"]}
+---
+
+### **Phantom Limbs**
+[[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]]'s performance in the pirates' bloodsport earned them [[People/Arnesport Citizens/Taln Wolfheart\|Taln Wolfheart]]'s respect and a chance to join his elite fighters on a secret mission to take out [[People/Arnesport Citizens/The Dealer\|The Dealer]].  [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] and Taln agreed to a joint assault using two ships, but the other ship captain, a brute named [[People/Arnesport Citizens/Yugin\|Yugin]], was suspicious and carrying weapons marking him as one of the [[People/Black Saints/Black Saints\|Black Saints]].  The party tailed him, overhearing that he was planning to go through the portal to [[Places/The Beastlands\|The Beastlands]] to kill [[People/Beastlands Denizens/Trisfina\|Trisfina]] soon, so they beat his team there and broke into [[People/Beastlands Denizens/The Vile Hunt\|The Vile Hunt]]'s fort.  Unfortunately, they hadn't been stealthy and [[People/Arnesport Citizens/Thunivel\|Thunivel]], Taln's right hand and master assassin had laid a trap in the fort that nearly killed the party, though they were able to fight their way out, defeating the Vile Hunters and Thunivel's elite death squad in the process.  The party tried to chase down a fleeing [[People/Arnesport Citizens/Worms\|Worms]], who they worried would ruin their reputations with Taln.  However, they pursued him through the catacombs of the [[Places/Sapling of Yggdrasil\|Sapling of Yggdrasil]], which were haunted by innumerable ghostly grasping arms and they found themselves tumbling through a portal to [[Places/The Shadowfell\|The Shadowfell]] and trapped without a way back.  There Aired lost an arm to a cackling nightmare creature and they were able to save the life of a powerful but totally terrified pirate captain named [[People/Arnesport Citizens/Redley\|Redley]].  They journeyed through the decaying gloom to reach the Black Saints' headquarters, the lost Netherese city of [[Places/Phylornel\|Phylornel]], where they could recuperate and Cock could reap the rewards of his deadly work with his patron, [[People/Black Saints/Pi'za\|Pi'za]] taking his true form here.  On the way back to the portal they were attacked by necrotic monsters made of the same blue-green fungus they had found in *The Beastlands* and [[People/Player Characters/Rip\|Rip]] was killed, then revived.  Meanwhile, Erastus had avoided the *Shadowfell* portal and he found himself held at knifepoint by a mysterious human who warned him about the traitors he traveled with.  This assassin had also killed [[People/Faerun Denizens/Orbital Strike/Void\|Void]] and the [[People/Astral Denizens/Mindwitness\|Mindwitness]], though Erastus was able to revive them.  The party tracked down this attacker and found none other than their old companion [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]], who was now an undead revenant under the control of a spurned [[People/Faerun Denizens/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]].  No magic they possessed could resurrect their friend, but they glimpsed a moment of the true Feannag who revealed his final triumph over [[People/Faerun Denizens/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] before vengeful phantom passed on.  
+### Session 45
+*Ship's Log 4 (Arnesport Morning)*
+* After the fight where [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] cemented their beastial powers [[People/Arnesport Citizens/Taln Wolfheart\|Taln Wolfheart]] invited the party to join him in his abode at the top of the [[Places/Sapling of Yggdrasil\|Sapling of Yggdrasil]] along with some of his best fighters to plan a special mission
+* They travelled up the trunk and into his lavishly decorated penthouse full of hedonistic and half-dressed attendants
+* They met Taln, a bugbear pirate named Khonk, and a goliath named [[People/Arnesport Citizens/Yugin\|Yugin]] and discussed how to board and take down [[People/Arnesport Citizens/The Dealer\|The Dealer]]'s flagship
+* Taln was being a bit cagey around the plan and [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] didn't trust him, but they agreed to a deal where the party would take [[People/Player Characters/Sea Bastion\|Sea Bastion]] and Taln would send a second strike force on another ship while [[People/Arnesport Citizens/Cap'n Flameskull\|Cap'n Flameskull]]'s assault distracted the fleet, would leave in 20 hours
+* [[People/Player Characters/Cock\|Cock]] used his penetrating vision to see through a blanket hiding a massive weapon in the mold of his own cursed gun, but much larger, which Yugin was hiding
+* Yugin said he had somewhere important to be in an hour and left, the party declined Taln's invitation to stay and enjoy themselves and instead tailed Yugin
+* They saw Yugin, who was not a very smart or discreet person, wave at [[People/Arnesport Citizens/Thunivel\|Thunivel]], then stop to chat with some others who, like him, carried Black Saint guns and didn't seem to have the animal features of everyone else in the tree
+* While Yugin was distracted watchin more of the bloodsport, the party demanded to enter the off-limits backstage area by claiming Taln had sent them
+* Inside they passed through the portal to [[Places/The Beastlands\|The Beastlands]] where they were hailed from [[People/Beastlands Denizens/The Vile Hunt\|The Vile Hunt]]'s fort as if they were here to help
+* Instead they said they were here to hunt the girl and walked straight to the jungle treeline where they met up with [[People/Beastlands Denizens/Trisfina\|Trisfina]] and [[People/Beastlands Denizens/Romper\|Romper]],
+* After catching up they made a plan to bring back Trisfina as if she were dead then take out the fort from the inside, so they bloodied her up and put her on a stretcher while Romper stood by
+* They walked back to the fort claiming to have easily hunted the elf, they were let in, then told to help place the body on the wall as a grotesque warning to others
+* [[People/Player Characters/Aired Helelar\|Aired Helelar]] was injured so he went to the fort's infirmary where he ran into the hunter they had allowed to escape, who recognized him immediately
+* Outside Wrenn and Erastus were convincing the hunter that they had found and killed Trisfina when they were told that someone else had arrived at the fort just before they returned
+* Wrenn felt a gun to their back and heard [[People/Arnesport Citizens/Thunivel\|Thunivel]]'s mirthless laugh as he asked what they were doing here
+### Session 46
+*Ship's Log 4 (Beastlands)*
+* In [[People/Beastlands Denizens/The Vile Hunt\|The Vile Hunt]]'s fort in [[Places/The Beastlands\|The Beastlands]] [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] tried to escape [[People/Arnesport Citizens/Thunivel\|Thunivel]] but he shot them grievously in the back before dropping his gun from their *Heat Metal* spell
+* He escaped over the wall and the party lost track of him
+* [[People/Player Characters/Aired Helelar\|Aired Helelar]], trapped in the infirmary with the injured hunter, tried to heal himself after going invisible
+* [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] began moving from hunter to hunter as he expertly defeated them and cleared out the fort
+* [[People/Player Characters/Nira\|Nira]] managed to confuse the *Gray Render* before it could escape its unlocked cage and slammed the door shut, taking it out of the battle
+* [[People/Arnesport Citizens/Yugin\|Yugin]] arrived along with the rest of Thunivel's elite [[People/Black Saints/Black Saints\|Black Saints]] death squad and immediately blasted a huge hole in the fort wall, sending the party flying and nearly dropping everyone
+* Erastus sought cover from Yugin's carnage but got caught by a sneak attack from Thunivel, who knocked him unconscious and teleported with the body over to the portal back to [[Places/Arnesport\|Arnesport]]
+* [[People/Player Characters/Rip\|Rip]] used *Suggestion* to trick Yugin into turning his fire on his comrades while Aired used the opening to heal Wrenn, who began bringing everyone else back up into the fight
+* [[People/Beastlands Denizens/Trisfina\|Trisfina]] called in [[People/Beastlands Denizens/Romper\|Romper]] to maul the distracted Yugin
+* Thunivel's sniper had been flying above the fort taking out party members but [[People/Player Characters/Cock\|Cock]] blocked his vision with a clever use of *Skywrite*
+* As the sniper dropped lower to get a better look, he came into range of Nira's *Vortex Warp*, which pulled him right into the cage with the raging *Gray Render*, mauling him immediately
+* A moment later she did the same to Thunivel, but he escaped the cage just to be killed finally by Cock
+* Romper cleaned up the remaining members of the elite death squad, leaving several powerful Black Saint weapons on the field, which Cock absorbed to awaken [[People/Black Saints/Pi'za\|Pi'za]]'s form
+### Session 47
+*Ship's Log 4 (Beastlands - Arnesport Morning - Shadowfell Eternal Night)*
+* As [[People/Player Characters/Cock\|Cock]] absorbed the weapons of Thunivel's squad [[People/Black Saints/Pi'za\|Pi'za]] was awakened, speaking through him to announce that he had reached a new "Eschelon of Sainthood" with this victory, he was flooded with great feelings of satisfaction as he looked at the slain assassins
+* Cock was invited to return to the [[People/Black Saints/Black Saints\|Black Saints]] headquarters to claim rewards and renown
+* [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] took one of the pistols of [[People/Beastlands Denizens/The Vile Hunt\|The Vile Hunt]] and studied the designs of the drones used against them in the battle
+* The party looted a *Cape of the Mountebank*, spellbook, gold, potions, armor, and the beating heart of a giant eagle, but Thunivel's body was nowhere to be found
+* [[People/Player Characters/Aired Helelar\|Aired Helelar]] found a vial of greenish-blue splotchy moss that he kept but couldn't identify
+* [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] found a collection of 57 coins made of pure darkness that seemed to be made of pure shadow, which Cock immediately demanded since he felt a hatred towards anyone who kept the tokens away from him
+* [[People/Beastlands Denizens/Trisfina\|Trisfina]] asked if the party had any plans for the *Grey Render*, but after they failed to befriend it by dragging out the body of its former master, she put it out of its misery
+* Though Trisfina said there were still hunting parties of Vile Hunters in [[Places/The Beastlands\|The Beastlands]], but was satisfied for now with the destruction of their base of operations
+* The party left the *Beastlands* through the portal to the [[Places/Sapling of Yggdrasil\|Sapling of Yggdrasil]] in [[Places/Arnesport\|Arnesport]]
+* Spoke to the pirate in charge of the portal, told him Thunivel and his crew were dead and sold him the Giant Eagle heart, then he mentioned that [[People/Arnesport Citizens/Worms\|Worms]] had followed them into the portal a few minutes ago
+* The party thought Worms was using multiple portals to get in and out of the *Beastlands* so they rushed down into the catacombs toward where they had seen him sneaking about before
+* After waiting for an hour in the creepy catacombs [[People/Player Characters/Rip\|Rip]]'s *Mordenkainen's Faithful Hound* alerted them to an invisible presence, which was revealed when Wrenn cast *Faerie Fire*
+* Floating above them was a floating magical eye that looked around at the group as they fled down the corridor lined with the grasping spectral limbs of the dead
+* Wrenn cleared the way with *Turn Undead* and the party rushed headlong into an inky black portal, plunging them into the gloom of [[Places/The Shadowfell\|The Shadowfell]]
+* Inside the gloom was complete, but those with magical sight could see shadows of winged creatures circling overhead an endless maze of sharp rocky outcroppings that were full of shambling undead and swirling pools of shadow
+* Pi'za appeared in specter form ahead of the party, welcoming them to his home and stretching as he moved under his own control for the first time in a long time
+* Erastus, the only human and non-magic user couldn't see through the gloom and was immediately terrified of the plane of shadow and death where he found himself, so he fled back into the portal at the base of the petrified tree
+### Session 48
+*Ship's Log 4 (Shadowfell Eternal Night)*
+* The party had just entered the eternal gloom of the shadowfell and were discussing how to get back through the hallway of undead grasping limbs when [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] disappeared into the orb, leaving them stranded without a cleric
+* [[People/Black Saints/Pi'za\|Pi'za]] appeared as a spectral human in mage robes floating before them, telling [[People/Player Characters/Cock\|Cock]] that the fortress of the [[People/Black Saints/Black Saints\|Black Saints]] was nearby where they could resupply
+* [[People/Player Characters/Nira\|Nira]] heard a faint voice in the gloom calling for help that cut through the moans of the shambling undead, so [[People/Player Characters/Rip\|Rip]] created *Light* that barely flickered enough to ward off the zombies and light the path as they set off
+* Occasionally someone would hear a creepy laugh and the sound of a voice counting coming from uncomfortably close but beyond the area the light illuminated
+* They approached a river of pure darkness that seemed to draw the life out of those nearby, but Rip's *Tenser's Floating Disk* spell helped them to cross to an island halfway across
+* In the middle of the small island was a stone statue of a gaunt figure with outsized limbs and immense claws, no face was carved into the smooth head but spiderweb cracks crisscrossed the form
+* After they determined that it wasn't moving or responding to stimuli they set about the second half of the crossing, a rickety broken rope bridge with rotted planks and only one rope left
+* They could see the wood was rotted away wherever it was dangling into the liquid shadow, but [[People/Player Characters/Aired Helelar\|Aired Helelar]] used his agility to lithely cross the line with a rope of his own to help steady the crossing for the rest of the party
+* As he helped the rest across he was standing just at the edge of Rip's flickering *Light* spell, and out of the darkness a shriek and a flash of the sharpest steel suddenly erupted, taking Aired completely off-guard and with perfect critical precision lopped off his left arm at the shoulder
+* With a cackling laugh the attacker retreated into the gloom before anyone could get a good look
+* As the blood came gushing out of the mortal wound it never hit the ground, instead it flowed through the air, drawn to the statue and filling up the spiderweb cracks with glowing blood as it came to life behind the party
+* Nira thought quickly and immediately *Polymorphed* the statue into a sheep, leaving it behind them as they fled across the river to stand and fight the one who had ambushed Aired
+* The party formed a defensive circle around Aired as they tried to staunch the bleeding, and the cackling creature retreated into the night, but they continued to hear its counting in the back of their minds
+* A moment later they heard a shaking voice and a Loxodon Pirate stumbled into their light begging to be saved from the nightmares in the dark
+* He said his name was [[People/Arnesport Citizens/Redley\|Redley]] and that he was one of [[People/Arnesport Citizens/Taln Wolfheart\|Taln Wolfheart]]'s captains, but had gotten lost while training with his crew in the catacombs and ended up here where he had become the target of a creature known as [[People/Black Saints/The Limbcutter\|The Limbcutter]]
+* Redley said he owed them a life-debt as long as they could help him get out of this place, so they set off with Aired cradling his severed limb
+* After walking for another hour they party arrived at a yawning shadowed canyon out of which rose a floating fortress bearing architecture that was completely unlike anything anyone had seen before, impossible structures and magically carved living stone
+* Torches burned around the fortress that seemed to ingest the darkness of [[Places/The Shadowfell\|The Shadowfell]] rather than providing any light or heat of their own, and a thin bridge was the only way to enter
+* Pi'za welcomed them to the city of [[Places/Phylornel\|Phylornel]] and showed them around a bustling market of shades like him, pointing out shops that sold magical items like common commodities and offered necromancy services, all prices in *Shadow Talents* the dark coins Cock had taken from [[People/Arnesport Citizens/Thunivel\|Thunivel]]'s body
+### Session 49
+*Ship's Log 4-5 (Shadowfell Eternal Night)*
+* The party went shopping in the magical fashion store in [[Places/Phylornel\|Phylornel]], [[People/Player Characters/Cock\|Cock]] upgraded his hat to a *Hat of Disguise*, [[People/Player Characters/Nira\|Nira]] bought a *Cloak of Protection*
+* After bartering the price down they realized Nira's cloak said "Glory to the Netherese Empire" in Netherese, Cock also realized that he could speak Netherese as a side effect of his bond with Pi'za
+* Then went to Pi'za's home in Phylornel, a magical mansion spell that was amidst rows of similar doors
+* Long Rest
+* [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] and [[People/Player Characters/Aired Helelar\|Aired Helelar]] stayed up all night working at the forge to create a prosthetic arm for Aired using a *Power Core* and *Lightning Core*
+* Their hard work resulted in a functional prosthetic that could cast *Lightning Lure*, but their efforts weren't enough to add all the desired abilities
+* On the way out of the city Cock got the teleportation circle sigil for Phylornel so they could return, then they left the city of dark mages with [[People/Arnesport Citizens/Redley\|Redley]] to travel back through [[Places/The Shadowfell\|The Shadowfell]] toward the portal
+* They took a different path through the darkness to avoid [[People/Black Saints/The Limbcutter\|The Limbcutter]], but ran into a field of mossy spores just like the ones in [[Places/The Beastlands\|The Beastlands]]
+* Since disturbing the spores was toxic and shadow beasts attacked anything airborne, they decided to hover their way through the narrow crags and canyons full of moss without touching the ground using various spells
+* It was eerily silent in this area, none of the corpses were shambling around, rather they were enveloped in the fungus and decayed
+* Wrenn spotted some magical items on a corpse but didn't dare disturb it
+* One lone zombie was wandering the canyons, but when they failed to distract it, the body rose up to its full height as a mound of fungal corpses erupted from the ground, revealing a *[Necrohulk](*Ship's Log 4 (Shadowfell Eternal Night)*)* that immediately attacked
+* The party was hemmed in by the oppressive canyon walls an the Necrohulk kicked up noxious spores that quickly brought down many of the party members, but Redley displayed incredible strength and combat prowess as he battered their enemy with his anchor
+* In the chaos [[People/Player Characters/Rip\|Rip]] went down and was dragged under the pile of corpses where he suffocated to death in a horrific demise
+* After the party had driven off the last of the undead scourge they dug out Rip's body and Wrenn was able to *Revivify* him
+* They escaped the spore field, but Aired could tell they were being watched, he kept spotting two glowing yellow eyes from the shadows
+* Wrenn noticed the being was leaving intricate patterns of tiny bones and recognized it as some sort of shy creature that probably would only reveal itself one-on-one
+* Meanwhile, [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] had escaped the Shadowfell but was left alone in the catacombs of the [[Places/Sapling of Yggdrasil\|Sapling of Yggdrasil]]
+* He began to head back up but was caught unaware and found himself grabbed from behind with a dagger to his throat
+* He persuaded his attacker to let him go and saw a young human man dressed in all black leveling a crossbow at him
+* The man had lots of questions about Erastus's companions and warned him that they were dangerous backstabbers and thieves who would betray him the first chance they got
+* Erastus bolted when he got hit with a burst of fog in the tunnels and got nicked by a poisoned dagger, which he resisted before the assassin disappeared
+* He then headed back up to the hot springs to lay low until the rest of the party returned
+### Session 50
+*Ship's Log 5 (Arnesport Late Morning)*
+* After a Long Rest the party was still missing, so [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] went back to [[People/Player Characters/Sea Bastion\|Sea Bastion]], where it was quiet, too quiet given the rag-tag group they traveled with
+* He cautiously explored the ship and found [[People/Faerun Denizens/Orbital Strike/Void\|Void]] and the [[People/Astral Denizens/Mindwitness\|Mindwitness]] eviscerated and bleeding out on the floor on the brink of death
+* He managed to revive both of them using his Paladin powers and some incredible luck, but neither remembered much about the incident or what happened
+* Void mentioned someone snuck up behind him despite his keen senses, and that he succumbed to a poisoned dagger quickly, the Mindwitness said that one of his previous masters had returned and ordered it to self-destruct
+* [[People/Grey Hawk Citizens/The Garlicle\|The Garlicle]] didn't see nuttin' and ay whadahya think he's some typa snitch? Fuggetaboudit.  
+* Erastus noticed bloody bootprints leading away but stayed with the ship to guard the ailing crew
+* Meanwhile the rest of the party escaped [[Places/The Shadowfell\|The Shadowfell]] but [[People/Player Characters/Nira\|Nira]] almost died in the grasping undead limb hallway, she was saved by [[People/Arnesport Citizens/Redley\|Redley]] who threw her to safety
+* When Nira regained consciousness she noticed a neat little pile of freshly shorn wool on the floor of the tunnel, which she recognized immediately as one of her flock's, she also saw a strand of yarn leading away from the pile down a different tunnel deeper into the catacombs
+* Still suffering grievous wounds from their undead encounters, the party convinced Nira to rest first and they went to the baths to rest up
+* Short Rest (benefits of Long Rest)
+* Afterward the finally returned to the ship to meet up with Erastus and when they compared stories [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] figured out that the human assassin tracking them with access to Nira's wool might be a former ally
+* Together they headed back down the [[Places/Sapling of Yggdrasil\|Sapling of Yggdrasil]] to investigate the mystery in the catacombs, but on their way they saw [[People/Arnesport Citizens/Worms\|Worms]] scampering upwards on the opposite staircase
+* Nira *Vortex Warped* him over and they tackled him, pulling him into an alcove to question him
+* He said he was going to [[Places/The Beastlands\|The Beastlands]] for his own pleasure working on a personal project, but he didn't count himself as one of [[People/Beastlands Denizens/The Vile Hunt\|The Vile Hunt]]
+* He tried to lie and escape, but after some intimidation he was convince to keep their fight with [[People/Arnesport Citizens/Thunivel\|Thunivel]] secret as long as they didn't tell [[People/Arnesport Citizens/Taln Wolfheart\|Taln Wolfheart]] about his trips to the catacombs and  the *Beastlands*
+* [[People/Player Characters/Cock\|Cock]] pulled one of the blue-green mushrooms off of his face to bottle it but got poisoned in the process
+* They let him go and went down to the catacombs to follow the yard to an obvious trap where several [Twig Blights](https://5e.tools/bestiary/twig-blight-mm.html) attacked and they were ambushed by none other than [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]], who didn't seem to be himself
+* A few blows were exchanged but Nira noticed he had some sort of magical metal collar on and she managed to dispel its magic
+* Immediately it fell away from his neck, revealing a gaping wound that sputtered blood as he choked and collapsed
+* Wrenn tried to heal him, but healing doesn't work on the undead, so he died in their arms
+* Cock beseeched [[People/Black Saints/Pi'za\|Pi'za]] to grant him the necromancy powers to speak to the spirits of the dead, and they were able to get access to Feannag's spirit with *Speak with Dead*
+* His memory was fuzzy but he said that he had managed to kill [[People/Faerun Denizens/Orbital Strike/Alduin Silversmite\|Alduin Silversmite]] in Nira's burning house as his last desperate act of vengeance before he died, he recalled being dragged out of the fire as his life expired and hearing someone casting powerful magic near him as he lost consciousness
+* With his spirit departed they searched the body, finding *Teleportation* sigils for [[Places/Arnesport\|Arnesport]] and [[Places/Faerun/Neverwinter\|Neverwinter]], a note from [[People/Faerun Denizens/Orbital Strike/Gabriella Starsyx\|Gabriella Starsyx]], and 500 gold

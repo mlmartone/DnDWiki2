@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/places/the-shadowfell/","tags":["Location"]}
+---
+
+The Shadowfell is an echo of the Prime Material Plane, a dark counterpart to the Feywild that overflows with necromancy magic and shadows made form.  No life is native to the Shadowfell, but creatures who seek darkness have learned to survive the treacherous terrain, and beasts made of pure shadows can be seen prowling the rocky crags or flying overhead.  This plane is a place of death and decay, corpses may spontaneously rise as zombies and sprits of the dead may become trapped here, quickly losing their sanity and becoming chaotic wraiths.  There is no natural light in the Shadowfell, and even torches or magical sources of light shine dimmer here.  Rivers of pure shadow cross the plane, washing away traces of life and returning only decay.  
+
+The Shadowfell is a reflection of the Prime Material plane, so certain landmarks may exist in both, but twisted and evil here.  It is possible to use shortcuts in the Shadowfell to cross vast distances on the Prime Material, but travelers risk becoming lost in the dark or lead astray by haunting visions.  
+
+The Shadowfell is accessible through portals, plane shifting magic, and areas in the Prime Material where shadows are particularly deep.  Many necromancers have used the plane's power to enhance their spells, but more have succumbed to the plane's inherent corruption than have succeeded in turning it to their will.  One such exception is the Netherese mages of [[Places/Phylornel\|Phylornel]], a cult-like ancient empire that achieved near divine power through unlocking the secrets of arcane magic.  It was thought that these mages had been destroyed thousands of years ago, but a remnant exist in their citadel which has been dragged into The Shadowfell, relatively close to the portal to the [[Places/Sapling of Yggdrasil\|Sapling of Yggdrasil]] in [[Places/Arnesport\|Arnesport]].  
+![Pasted image 20251102230928.png](/img/user/Z_Attachments/Pasted%20image%2020251102230928.png)

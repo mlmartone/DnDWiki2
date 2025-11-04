@@ -62,27 +62,27 @@
 ### Session 53
 *Ship's Log 5 (Arnesport Late Morning)*
 * As the party lay defeated in front of the remnant of [[People/Arnesport Citizens/Velma The Vulture\|Velma The Vulture]]'s crew, she took their gear and opened the *Bag of Colding* looking for more loot
-* Immediately a vortex of swirling cold fog poured out and filled the room as the bag floated out of her hands and above everyone's head and the Djinn's voice could be heard laughing
-* The vortex suddenly reversed, pulling the party, [[People/Arnesport Citizens/Redley\|Redley]], Velma, and two of her crew into the bag where the Djinn loomed large over all of them trapped on a platform in the middle of a void with their stored items floating about around them larger than life
-* After a brief self-aggrandizing speech about taking vengeance on those who trapped him (though he claimed he was never truly trapped), it became clear that the Djinn couldn't tell the humanoids apart, but he only wanted to punish the five who trapped him
-* The party set about deceiving and persuading the Djinn that Velma and the pirates were the ones he was after
+* Immediately a vortex of swirling cold fog poured out and filled the room as the bag floated out of her hands and above everyone's head and the Djinni's voice could be heard laughing
+* The vortex suddenly reversed, pulling the party, [[People/Arnesport Citizens/Redley\|Redley]], Velma, and two of her crew into the bag where the Djinni loomed large over all of them trapped on a platform in the middle of a void with their stored items floating about around them larger than life
+* After a brief self-aggrandizing speech about taking vengeance on those who trapped him (though he claimed he was never truly trapped), it became clear that the Djinni couldn't tell the humanoids apart, but he only wanted to punish the five who trapped him
+* The party set about deceiving and persuading the Djinni that Velma and the pirates were the ones he was after
 * Redley quickly cleared his name with persuasion (and looking quite a bit different as a Loxodon)
-* [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] played to the Djinn's arrogance with flattery, just as he had with the dragon
+* [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] played to the Djinni's arrogance with flattery, just as he had with the dragon
 * [[People/Player Characters/Nira\|Nira]] offered to help free him from his bonds to [[People/Grey Hawk Citizens/Reeve Fona Goldcrest\|Reeve Fona Goldcrest]], which got her freed, though she couldn't convince him to bring [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]] and [[People/Player Characters/Rip\|Rip]] along
-* The pirates foolishly misread the situation and bound themselves all together as a group, threatening the Djinn if they weren't released, putting them on thin ice
-* [[People/Player Characters/Cock\|Cock]] took advantage of the pirates misstep and sacrificed himself by admitting to be one of the Djinn's captors, but also implicating the pirates with him
-* Rip admitted to knowing the Reeve but, but the Djinn made him swear a binding oath that the first action he took once freed would be to help take down the Reeve
-* [[People/Player Characters/Aired Helelar\|Aired Helelar]] tried to use his *Echo Avatar* to escape but the Djinn offered him a chance to save himself by playing the last pirate in a game of chance, which he won
-* Wrenn couldn't convince the Djinn to free them so they were implicated along with Cock and the three pirates
-* The Djinn said the five of them would spend eternity serving him in his mansion in the *Plane of Elemental Air*, but after he took care of one last issue
+* The pirates foolishly misread the situation and bound themselves all together as a group, threatening the Djinni if they weren't released, putting them on thin ice
+* [[People/Player Characters/Cock\|Cock]] took advantage of the pirates misstep and sacrificed himself by admitting to be one of the Djinni's captors, but also implicating the pirates with him
+* Rip admitted to knowing the Reeve but, but the Djinni made him swear a binding oath that the first action he took once freed would be to help take down the Reeve
+* [[People/Player Characters/Aired Helelar\|Aired Helelar]] tried to use his *Echo Avatar* to escape but the Djinni offered him a chance to save himself by playing the last pirate in a game of chance, which he won
+* Wrenn couldn't convince the Djinni to free them so they were implicated along with Cock and the three pirates
+* The Djinni said the five of them would spend eternity serving him in his mansion in the *Plane of Elemental Air*, but after he took care of one last issue
 * He still owed one wish before he was freed of his servitude, which he granted to the "innocent" bystanders as recompense for dragging them into this
-* He then twisted the deal with Rip to make them be the one to make the wish, forcing the wish to actually be to the Djinn's benefit
+* He then twisted the deal with Rip to make them be the one to make the wish, forcing the wish to actually be to the Djinni's benefit
 * After discussing briefly, they decided to *Wish* for *Resurrection* of [[People/Player Characters/Feannag MacDamhan\|Feannag MacDamhan]] back in [[Places/Faerun/Grey Hawk/Grey Hawk\|Grey Hawk]] along with a weapon and a note telling him to kill the Reeve
-* Finally freed, the Djinn teleported everyone to his mansion, an opulent study full of trinkets and games, but before he sent away the freed party members Cock and Wrenn appealed to the Djinn's arrogance, wagering their secrets against their freedom
-* Cock faced the Djinn in a complex game of strategy, but while he was distracted the rest of the party spread out around the study to look for clues how to help him outsmart this immensely intelligent and powerful immortal being
-* The Djinn was in the process of besting Cock when the rest of the party solved a series of puzzles that granted him key advantages in the game, which leveled the scales and allowed him to hold off the ticking clock
-* This gave the party enough time to solve riddles that revealed the magic ring that binds the Djinn along with his true hidden name, [[People/Grey Hawk Citizens/Amroq\|Amroq]]
+* Finally freed, the Djinni teleported everyone to his mansion, an opulent study full of trinkets and games, but before he sent away the freed party members Cock and Wrenn appealed to the Djinni's arrogance, wagering their secrets against their freedom
+* Cock faced the Djinni in a complex game of strategy, but while he was distracted the rest of the party spread out around the study to look for clues how to help him outsmart this immensely intelligent and powerful immortal being
+* The Djinni was in the process of besting Cock when the rest of the party solved a series of puzzles that granted him key advantages in the game, which leveled the scales and allowed him to hold off the ticking clock
+* This gave the party enough time to solve riddles that revealed the magic ring that binds the Djinni along with his true hidden name, [[People/Grey Hawk Citizens/Amroq\|Amroq]]
 * Just as Nira put on the ring and claimed power over Amroq, Cock bested him at the game, securing his and Wrenn's freedom (but leaving the pirates behind)
-* The Djinn's demeanor suddenly changed at the prospect of mortals besting him and binding him again just as he had escaped his last master, and he offered to grant them any *Wish* in exchange for the ring
+* The Djinni's demeanor suddenly changed at the prospect of mortals besting him and binding him again just as he had escaped his last master, and he offered to grant them any *Wish* in exchange for the ring
 * They used the wish to restore themselves and Redley to full health and cure their ailments from the fight while restoring some magical abilities
 * Amroq then took the pirates deeper into his mansion and with a snap sent the party safely back out of the *Bag of Colding* and into darkness

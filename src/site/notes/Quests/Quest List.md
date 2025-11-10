@@ -34,6 +34,6 @@
 [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]]: [[Quests/Archived/The Wolf's Curse\|The Wolf's Curse]] (Complete!)
 [[Quests/Archived/Hunt the Hunters\|Hunt the Hunters]] (Complete!)
 [[Quests/Shadows of the Past\|Shadows of the Past]] (Complete!)
-[[Quests/A Djinni-us Plan\|A Djinni-us Plan]] (Complete!)
+[[Quests/Archived/A Djinni-us Plan\|A Djinni-us Plan]] (Complete!)
 
 

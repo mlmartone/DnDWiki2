@@ -86,3 +86,31 @@
 * The Djinni's demeanor suddenly changed at the prospect of mortals besting him and binding him again just as he had escaped his last master, and he offered to grant them any *Wish* in exchange for the ring
 * They used the wish to restore themselves and Redley to full health and cure their ailments from the fight while restoring some magical abilities
 * Amroq then took the pirates deeper into his mansion and with a snap sent the party safely back out of the *Bag of Colding* and into darkness
+### Session 54
+*Ship's Log 5 (Arnesport Late Morning)*
+* In the darkness of the bowels of [[People/Arnesport Citizens/The Dealer\|The Dealer]]'s ship they could hear the sounds of cannons firing as the space battle took place around them
+* Looking around they found they had burst out of a storage locker that was amongst others that corresponded to ship names, seemingly confiscated gear
+* Their equipment was scattered around, but each party member was missing something of value as was [[People/Arnesport Citizens/Redley\|Redley]], who didn't have his massive anchor
+* Digging around in other lockers they found some healing potions and spell scrolls along with weapons to replace those they lost
+* [[People/Player Characters/Aired Helelar\|Aired Helelar]] and [[People/Player Characters/Nira\|Nira]] snuck into the cargo hold which was dark except for a torch flickering from around a corner of boxes, where they could hear low voices, below through the cargo lift they could see open space where other ships were docked
+* As they were about to leave a sentry returned, but [[People/Player Characters/Erastus Wyndhoek\|Erastus Wyndhoek]] grabbed him and expertly pulled him into a pin and finished him off with a dagger before he could so much as scream
+* They hid the body in the remains of their locker, then went upstairs to the gun deck where pirates were running around reloading cannons and generally not paying attention to them as the battle raged
+* [[People/Player Characters/Cock\|Cock]] and Nira disguised themselves, Aired went as himself, and [[People/Player Characters/Wrenn Lingenhall\|Wrenn Lingenhall]], [[People/Player Characters/Rip\|Rip]], Erastus, and Redley went invisible to sneak through
+* As they walked through Erastus recognized the large lizardfolk first mate as [[People/Arnesport Citizens/Golden-Fang\|Golden-Fang]], the pirate captain who had led the raid that had killed his brother a year ago, he also saw that Golden-Fang was carrying his sword at his hip
+* The first mate didn't see them other than to tell Nira to go help one of the cannon crews, then continued standing on the cargo lift shouting orders
+* Nira went through the magazine where all of the ammunition and extra weapons were stored, passed off some cannon balls to one of the gun crews, then rejoined the party
+* They moved past the gun deck up to the crew quarters where they passed two massive automaton sentries guarding an ornate door that was obviously The Dealer's quarters
+* They noticed nameplates above the officer quarters, found [[People/Arnesport Citizens/Velma The Vulture\|Velma The Vulture]]'s, then made their way in using a key Wrenn had stolen during their *flashback*
+* Inside they searched to find a service contract, a map of the ship, and a fancy bejeweled magic cutlass
+* The service contract was interesting, distributing shares of the treasure to 5 contracted pirate crews, the Dealer and his officers, and the crew, but 13 of the Dealer's officers were named in the chain of command but not allocated shares
+* The contract also detailed the importance of secrecy around the Dealer, especially his identity, but promised untold riches for faithful service
+* They came up with a plan to get into the brig to break out the hostage members of the [[People/Arnesport Citizens/Council of Pirate Lords\|Council of Pirate Lords]] so Erastus could use them to move up in the [[Places/Arnesport\|Arnesport]] hierarchy
+* The plan required someone to go up to the top deck and cut the ropes to the cargo lift, causing Golden-Fang to plummet away from the brig door, giving the others a chance to get in
+* They had a few close calls with suspicious search parties, raising the alarm level especially as they were caught trying to break into Golden-Fang's quarters
+* Following the plan, they split up, sending Nira and Cock up to the top deck to cut the ropes while the rest got in position near the door
+* On the way up they walked through the treasure hoard, a truly staggering amount of wealth in gold, jewels, trinkets, and magical items, while they were looking at it a young solar dragon in a pirate hat snuck up on them
+* He said his name was [[People/Arnesport Citizens/Flarexius\|Flarexius]] and that he was one of the newest members of the Dealer's crew and that he liked to hang out with the treasure hoard to keep an eye on it
+* He was playful and inquisitive, so they convinced him that they were new recruits who wanted to play a game with him
+* Nira used her flashback to go through the galley to get a scavver, a type of space fish, and along the way met a jolly gnome cook who was friendly but suspicious, she also noticed Aired's missing brewing kit and Cock's missing *Decanter of Endless Water*
+* With the fish they took the dragon out onto the main deck where they saw several of Taln's captured crew chained together and waiting by the dais
+* They tossed the fish head near the lift cables and Flarexius blasted it by creating a blinding ball of fire around it, blinding Cock and many others in the process, but successfully destroying the cables and collapsing the lift, sparking chaos and setting their plan into motion
